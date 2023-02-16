@@ -9,6 +9,7 @@
     "preview": "vite preview",
     "check": "svelte-check --tsconfig ./tsconfig.json"
   },
+  "author": "Lewis Nzau",
   "devDependencies": {
     "@sveltejs/vite-plugin-svelte": "^1.0.1",
     "@tailwindcss/typography": "^0.5.4",

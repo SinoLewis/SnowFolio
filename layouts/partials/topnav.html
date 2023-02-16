@@ -15,63 +15,24 @@
   <ul class="flex justify-center items-center">
     <li class="mx-2 md:mx-4 hover:scale-105 transition-transform">
       <a
-        href="/hoodies"
-        class="w-2 font-display text-base font-normal text-green-500 border-green-400 border rounded-md px-2 py-1 hover:drop-shadow-[0_0_9px_rgba(34,197,94,0.9)]"
-        >categories</a
+        href="/projects"
+        class="w-2 font-display text-base font-normal text-blue-500 border-blue-400 border rounded-md px-2 py-1 hover:drop-shadow-[0_0_9px_rgba(34,197,94,0.9)]"
+        >Projects 🖥️</a
       >
     </li>
-    <li class="indicator mx-2 md:mx-4 hover:scale-105 transition-transform">
-      <span class="indicator-item badge badge-primary">
-        <cart-indicator></cart-indicator>
-      </span>
+    <li class="mx-2 md:mx-4 hover:scale-105 transition-transform">
       <a
-        href="/checkout"
-        class="font-display text-base font-normal text-blue-500 border-blue-400 border rounded-md px-2 py-1 hover:drop-shadow-[0_0_9px_rgba(34,197,94,0.9)]"
-        >checkout</a
+        href="/skills"
+        class="w-2 font-display text-base font-normal text-red-500 border-red-400 border rounded-md px-2 py-1 hover:drop-shadow-[0_0_9px_rgba(34,197,94,0.9)]"
+        >Skills 🥋</a
       >
     </li>
-    <li class="ml-2">
-      <modal-action type="open" name="search">
-        <button
-          class="p-2 mr-2 hidden md:flex justify-between items-center bg-white bg-opacity-10 hover:bg-opacity-20 border border-gray4 hover:border-purple-500 shadow-xl hover:drop-shadow-[0_0_7px_rgba(168,85,247,0.5)] transition-all"
-        >
-          <span class="text-gray2 w-4 mx-2"
-            >{{ partial ("svg/search.svg") }}</span
-          >
-          <span class="mr-12">Search</span>
-          <span class="mx-2 text-xs border border-gray4 rounded-md p-1 px-2"
-            >/</span
-          >
-        </button>
-        <button class="flex md:hidden">
-          <span class="text-gray2 w-6 mx-2"
-            >{{ partial ("svg/search.svg") }}</span
-          >
-        </button>
-      </modal-action>
-    </li>
-    <li class="ml-2 mr-6 relative">
-      <if-user>
-        <a href="/dashboard">
-          <div class="avatar online">
-            <div class="w-12 rounded-full">
-              <img src="/img/ui/avatar.svg" />
-            </div>
-          </div>
-        </a>
-        <modal-action slot="signed-out" name="signin" type="open">
-          <button
-            class="relative hidden md:inline-block px-4 py-2 text-xl font-display text-black hover:text-white bg-white hover:bg-purple-600 drop-shadow-[6px_6px_0_black] hover:drop-shadow-[0_0_7px_rgba(168,85,247,0.5)] transition-all duration-300"
-          >
-            login
-          </button>
-          <button class="flex md:hidden">
-            <span class="text-gray2 w-6 mx-2"
-              >{{ partial ("svg/login.svg") }}</span
-            >
-          </button>
-        </modal-action>
-      </if-user>
+    <li class="mx-2 md:mx-4 hover:scale-105 transition-transform">
+      <a
+        href="/socials"
+        class="w-2 font-display text-base font-normal text-green-500 border-green-400 border rounded-md px-2 py-1 hover:drop-shadow-[0_0_9px_rgba(34,197,94,0.9)]"
+        >Socials 🙋🏾‍♂️</a
+      >
     </li>
   </ul>
 </nav>
