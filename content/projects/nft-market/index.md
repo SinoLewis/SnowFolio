@@ -4,7 +4,7 @@ lastmod: 2023-02-16T08:36:36-07:00
 publishdate: 2023-02-16T08:36:36-07:00
 author: Lewis Nzau
 draft: false
-description: Simulated attack on an organization's digital infrastructure to identify and exploit vulnerabilities.
+description: A digital platform that enables users to buy, sell, and trade non-fungible tokens (NFTs), digital assets that are stored on a blockchain.
 tags:
   - python
   - blockchain

@@ -1,10 +1,10 @@
 ---
-title: OpenAI-Finance
+title: OpenAI Finance
 lastmod: 2023-02-16T08:36:36-07:00
 publishdate: 2023-02-16T08:36:36-07:00
 author: Lewis Nzau
 draft: false
-description: Elevate your style and upgrade your shopping experience with edgy tech!
+description: Finance strategy algorithms powered with AI to analyze financial market data, make predictions, and execute trades in real-time. 
 tags:
   - python
   - finance

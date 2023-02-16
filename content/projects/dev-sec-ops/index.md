@@ -1,5 +1,5 @@
 ---
-title: Machine Learning Colabs
+title: DevSecOps
 lastmod: 2023-02-16T08:36:36-07:00
 publishdate: 2023-02-16T08:36:36-07:00
 author: Lewis Nzau
