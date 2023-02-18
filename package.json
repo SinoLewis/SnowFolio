@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "vite build && hugo",
+    "hugo": "hugo server --forceSyncStatic --minify --bind=0.0.0.0 --port 6969",
     "preview": "vite preview",
     "check": "svelte-check --tsconfig ./tsconfig.json"
   },
