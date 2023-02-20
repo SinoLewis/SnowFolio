@@ -2,167 +2,167 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Skills on SnowForlio</title>
-    <link>https://sinolewis.github.io/SnowForlio/skills/</link>
+    <link>/skills/</link>
     <description>Recent content in Skills on SnowForlio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Feb 2023 08:36:36 -0700</lastBuildDate><atom:link href="https://sinolewis.github.io/SnowForlio/skills/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Feb 2023 08:36:36 -0700</lastBuildDate><atom:link href="/skills/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Angular</title>
-      <link>https://sinolewis.github.io/SnowForlio/skills/angular/</link>
+      <link>/skills/angular/</link>
       <pubDate>Thu, 16 Feb 2023 08:36:36 -0700</pubDate>
       
-      <guid>https://sinolewis.github.io/SnowForlio/skills/angular/</guid>
+      <guid>/skills/angular/</guid>
       <description>The following lesson explains some of the most common hacking techniques and how to secure your app against them.
 1. Zero-day Vulnerability A zero-day vulnerability is a weakness that is unknown or unfixed as of today. When a hacker decides to attack this weakness, it&amp;rsquo;s called zero-day exploit.</description>
     </item>
     
     <item>
       <title>Artificial Intelligence</title>
-      <link>https://sinolewis.github.io/SnowForlio/skills/ai/</link>
+      <link>/skills/ai/</link>
       <pubDate>Thu, 16 Feb 2023 08:36:36 -0700</pubDate>
       
-      <guid>https://sinolewis.github.io/SnowForlio/skills/ai/</guid>
+      <guid>/skills/ai/</guid>
       <description>The following lesson explains some of the most common hacking techniques and how to secure your app against them.
 1. Zero-day Vulnerability A zero-day vulnerability is a weakness that is unknown or unfixed as of today. When a hacker decides to attack this weakness, it&amp;rsquo;s called zero-day exploit.</description>
     </item>
     
     <item>
       <title>CSS</title>
-      <link>https://sinolewis.github.io/SnowForlio/skills/css/</link>
+      <link>/skills/css/</link>
       <pubDate>Thu, 16 Feb 2023 08:36:36 -0700</pubDate>
       
-      <guid>https://sinolewis.github.io/SnowForlio/skills/css/</guid>
+      <guid>/skills/css/</guid>
       <description>The following lesson explains some of the most common hacking techniques and how to secure your app against them.
 1. Zero-day Vulnerability A zero-day vulnerability is a weakness that is unknown or unfixed as of today. When a hacker decides to attack this weakness, it&amp;rsquo;s called zero-day exploit.</description>
     </item>
     
     <item>
       <title>DevSecOps</title>
-      <link>https://sinolewis.github.io/SnowForlio/skills/dev-sec-ops/</link>
+      <link>/skills/dev-sec-ops/</link>
       <pubDate>Thu, 16 Feb 2023 08:36:36 -0700</pubDate>
       
-      <guid>https://sinolewis.github.io/SnowForlio/skills/dev-sec-ops/</guid>
+      <guid>/skills/dev-sec-ops/</guid>
       <description>The following lesson explains some of the most common hacking techniques and how to secure your app against them.
 1. Zero-day Vulnerability A zero-day vulnerability is a weakness that is unknown or unfixed as of today. When a hacker decides to attack this weakness, it&amp;rsquo;s called zero-day exploit.</description>
     </item>
     
     <item>
       <title>Docker</title>
-      <link>https://sinolewis.github.io/SnowForlio/skills/docker/</link>
+      <link>/skills/docker/</link>
       <pubDate>Thu, 16 Feb 2023 08:36:36 -0700</pubDate>
       
-      <guid>https://sinolewis.github.io/SnowForlio/skills/docker/</guid>
+      <guid>/skills/docker/</guid>
       <description>The following lesson explains some of the most common hacking techniques and how to secure your app against them.
 1. Zero-day Vulnerability A zero-day vulnerability is a weakness that is unknown or unfixed as of today. When a hacker decides to attack this weakness, it&amp;rsquo;s called zero-day exploit.</description>
     </item>
     
     <item>
       <title>Finance</title>
-      <link>https://sinolewis.github.io/SnowForlio/skills/finance/</link>
+      <link>/skills/finance/</link>
       <pubDate>Thu, 16 Feb 2023 08:36:36 -0700</pubDate>
       
-      <guid>https://sinolewis.github.io/SnowForlio/skills/finance/</guid>
+      <guid>/skills/finance/</guid>
       <description>The following lesson explains some of the most common hacking techniques and how to secure your app against them.
 1. Zero-day Vulnerability A zero-day vulnerability is a weakness that is unknown or unfixed as of today. When a hacker decides to attack this weakness, it&amp;rsquo;s called zero-day exploit.</description>
     </item>
     
     <item>
       <title>Firebase</title>
-      <link>https://sinolewis.github.io/SnowForlio/skills/firebase/</link>
+      <link>/skills/firebase/</link>
       <pubDate>Thu, 16 Feb 2023 08:36:36 -0700</pubDate>
       
-      <guid>https://sinolewis.github.io/SnowForlio/skills/firebase/</guid>
+      <guid>/skills/firebase/</guid>
       <description>The following lesson explains some of the most common hacking techniques and how to secure your app against them.
 1. Zero-day Vulnerability A zero-day vulnerability is a weakness that is unknown or unfixed as of today. When a hacker decides to attack this weakness, it&amp;rsquo;s called zero-day exploit.</description>
     </item>
     
     <item>
       <title>Golang</title>
-      <link>https://sinolewis.github.io/SnowForlio/skills/go/</link>
+      <link>/skills/go/</link>
       <pubDate>Thu, 16 Feb 2023 08:36:36 -0700</pubDate>
       
-      <guid>https://sinolewis.github.io/SnowForlio/skills/go/</guid>
+      <guid>/skills/go/</guid>
       <description>The following lesson explains some of the most common hacking techniques and how to secure your app against them.
 1. Zero-day Vulnerability A zero-day vulnerability is a weakness that is unknown or unfixed as of today. When a hacker decides to attack this weakness, it&amp;rsquo;s called zero-day exploit.</description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>https://sinolewis.github.io/SnowForlio/skills/hugo/</link>
+      <link>/skills/hugo/</link>
       <pubDate>Thu, 16 Feb 2023 08:36:36 -0700</pubDate>
       
-      <guid>https://sinolewis.github.io/SnowForlio/skills/hugo/</guid>
+      <guid>/skills/hugo/</guid>
       <description>The following lesson explains some of the most common hacking techniques and how to secure your app against them.
 1. Zero-day Vulnerability A zero-day vulnerability is a weakness that is unknown or unfixed as of today. When a hacker decides to attack this weakness, it&amp;rsquo;s called zero-day exploit.</description>
     </item>
     
     <item>
       <title>PWA</title>
-      <link>https://sinolewis.github.io/SnowForlio/skills/pwa/</link>
+      <link>/skills/pwa/</link>
       <pubDate>Thu, 16 Feb 2023 08:36:36 -0700</pubDate>
       
-      <guid>https://sinolewis.github.io/SnowForlio/skills/pwa/</guid>
+      <guid>/skills/pwa/</guid>
       <description>The following lesson explains some of the most common hacking techniques and how to secure your app against them.
 1. Zero-day Vulnerability A zero-day vulnerability is a weakness that is unknown or unfixed as of today. When a hacker decides to attack this weakness, it&amp;rsquo;s called zero-day exploit.</description>
     </item>
     
     <item>
       <title>Python</title>
-      <link>https://sinolewis.github.io/SnowForlio/skills/python/</link>
+      <link>/skills/python/</link>
       <pubDate>Thu, 16 Feb 2023 08:36:36 -0700</pubDate>
       
-      <guid>https://sinolewis.github.io/SnowForlio/skills/python/</guid>
+      <guid>/skills/python/</guid>
       <description>The following lesson explains some of the most common hacking techniques and how to secure your app against them.
 1. Zero-day Vulnerability A zero-day vulnerability is a weakness that is unknown or unfixed as of today. When a hacker decides to attack this weakness, it&amp;rsquo;s called zero-day exploit.</description>
     </item>
     
     <item>
       <title>React</title>
-      <link>https://sinolewis.github.io/SnowForlio/skills/react/</link>
+      <link>/skills/react/</link>
       <pubDate>Thu, 16 Feb 2023 08:36:36 -0700</pubDate>
       
-      <guid>https://sinolewis.github.io/SnowForlio/skills/react/</guid>
+      <guid>/skills/react/</guid>
       <description>The following lesson explains some of the most common hacking techniques and how to secure your app against them.
 1. Zero-day Vulnerability A zero-day vulnerability is a weakness that is unknown or unfixed as of today. When a hacker decides to attack this weakness, it&amp;rsquo;s called zero-day exploit.</description>
     </item>
     
     <item>
       <title>Supabase</title>
-      <link>https://sinolewis.github.io/SnowForlio/skills/supabase/</link>
+      <link>/skills/supabase/</link>
       <pubDate>Thu, 16 Feb 2023 08:36:36 -0700</pubDate>
       
-      <guid>https://sinolewis.github.io/SnowForlio/skills/supabase/</guid>
+      <guid>/skills/supabase/</guid>
       <description>The following lesson explains some of the most common hacking techniques and how to secure your app against them.
 1. Zero-day Vulnerability A zero-day vulnerability is a weakness that is unknown or unfixed as of today. When a hacker decides to attack this weakness, it&amp;rsquo;s called zero-day exploit.</description>
     </item>
     
     <item>
       <title>Svelte</title>
-      <link>https://sinolewis.github.io/SnowForlio/skills/svelte/</link>
+      <link>/skills/svelte/</link>
       <pubDate>Thu, 16 Feb 2023 08:36:36 -0700</pubDate>
       
-      <guid>https://sinolewis.github.io/SnowForlio/skills/svelte/</guid>
+      <guid>/skills/svelte/</guid>
       <description>The following lesson explains some of the most common hacking techniques and how to secure your app against them.
 1. Zero-day Vulnerability A zero-day vulnerability is a weakness that is unknown or unfixed as of today. When a hacker decides to attack this weakness, it&amp;rsquo;s called zero-day exploit.</description>
     </item>
     
     <item>
       <title>Typescript</title>
-      <link>https://sinolewis.github.io/SnowForlio/skills/typescript/</link>
+      <link>/skills/typescript/</link>
       <pubDate>Thu, 16 Feb 2023 08:36:36 -0700</pubDate>
       
-      <guid>https://sinolewis.github.io/SnowForlio/skills/typescript/</guid>
+      <guid>/skills/typescript/</guid>
       <description>The following lesson explains some of the most common hacking techniques and how to secure your app against them.
 1. Zero-day Vulnerability A zero-day vulnerability is a weakness that is unknown or unfixed as of today. When a hacker decides to attack this weakness, it&amp;rsquo;s called zero-day exploit.</description>
     </item>
     
     <item>
       <title>Vue</title>
-      <link>https://sinolewis.github.io/SnowForlio/skills/vue/</link>
+      <link>/skills/vue/</link>
       <pubDate>Thu, 16 Feb 2023 08:36:36 -0700</pubDate>
       
-      <guid>https://sinolewis.github.io/SnowForlio/skills/vue/</guid>
+      <guid>/skills/vue/</guid>
       <description>The following lesson explains some of the most common hacking techniques and how to secure your app against them.
 1. Zero-day Vulnerability A zero-day vulnerability is a weakness that is unknown or unfixed as of today. When a hacker decides to attack this weakness, it&amp;rsquo;s called zero-day exploit.</description>
     </item>

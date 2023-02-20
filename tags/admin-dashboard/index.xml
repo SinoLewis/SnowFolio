@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>admin dashboard on SnowForlio</title>
-    <link>https://sinolewis.github.io/SnowForlio/tags/admin-dashboard/</link>
+    <link>/tags/admin-dashboard/</link>
     <description>Recent content in admin dashboard on SnowForlio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Feb 2023 08:36:36 -0700</lastBuildDate><atom:link href="https://sinolewis.github.io/SnowForlio/tags/admin-dashboard/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Feb 2023 08:36:36 -0700</lastBuildDate><atom:link href="/tags/admin-dashboard/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GigsDash</title>
-      <link>https://sinolewis.github.io/SnowForlio/projects/gigs-dash/</link>
+      <link>/projects/gigs-dash/</link>
       <pubDate>Thu, 16 Feb 2023 08:36:36 -0700</pubDate>
       
-      <guid>https://sinolewis.github.io/SnowForlio/projects/gigs-dash/</guid>
+      <guid>/projects/gigs-dash/</guid>
       <description>The following lesson explains some of the most common hacking techniques and how to secure your app against them.
 1. Zero-day Vulnerability A zero-day vulnerability is a weakness that is unknown or unfixed as of today. When a hacker decides to attack this weakness, it&amp;rsquo;s called zero-day exploit.</description>
     </item>
