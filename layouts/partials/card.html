@@ -5,13 +5,13 @@
 >
   <a class="no-underline">
     {{/* if img is defined, use it, otherwise default */}} {{ $img := cond
-    (isset . "img") .img (print .context.RelPermalink "img/featured.webp") }}
+    (isset . "img") .img (print .context.RelPermalink "img/featured.png") }}
     {{/* make sure file exists */}} {{ $img := cond (fileExists $img) $img
     "/img/default-cover.webp" }}
     <a href="{{ .context.RelPermalink }}">
       <img
         href="{{ .context.RelPermalink }}"
-        class="w-full m-0 mb-1 rounded-t-xl"
+        class="w-full max-h-32 object-cover m-0 mb-1 rounded-t-xl"
         src="{{ $img }}"
         alt="{{ .context.Title }}"
       />

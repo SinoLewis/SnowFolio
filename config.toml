@@ -1,4 +1,3 @@
-baseURL = 'https://sinolewis.github.io/SnowForlio/'
 languageCode = 'en-us'
 title = 'SnowForlio'
 [frontmatter]
