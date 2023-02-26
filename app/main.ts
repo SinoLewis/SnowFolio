@@ -4,7 +4,7 @@ console.log(
   / ___| _ __   _____      _|  ___|__  _ __| (_) ___
   \___ \| '_ \ / _ \ \ /\ / / |_ / _ \| '__| | |/ _ \
   ___) | | | | (_) \ V  V /|  _| (_) | |  | | | (_) |
-  |____/|_| |_|\___/ \_/\_/ |_|  \___/|_|  |_|_|\___/
+  |____/|_| |_|\___/ \_/\_/ |_|  \___/|_|  |_|_|\___/  
   `,
   "font-family:monospace; color: orange;"
 );
@@ -22,6 +22,7 @@ scrollSave();
 export const router = flamethrower({ prefetch: "hover", log: false });
 
 // UI
+export * from "./components/ui/item-comment.svelte";
 export * from "./components/ui/modal-action.svelte";
 export * from "./components/ui/modal-dialog.svelte";
 export * from "./components/ui/route-loader.svelte";
