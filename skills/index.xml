@@ -5,16 +5,16 @@
     <link>/skills/</link>
     <description>Recent content in Skills on SnowForlio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 16 Feb 2023 08:36:36 -0700</lastBuildDate><atom:link href="/skills/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/skills/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Angular</title>
       <link>/skills/angular/</link>
       <pubDate>Thu, 16 Feb 2023 08:36:36 -0700</pubDate>
       
       <guid>/skills/angular/</guid>
-      <description>The following lesson explains some of the most common hacking techniques and how to secure your app against them.
-1. Zero-day Vulnerability A zero-day vulnerability is a weakness that is unknown or unfixed as of today. When a hacker decides to attack this weakness, it&amp;rsquo;s called zero-day exploit.</description>
+      <description>Angular is a powerful front-end framework that I have used in several of my portfolio projects, including online shop applications. With its robust features and intuitive design, Angular has enabled me to develop complex web applications that deliver a seamless user experience.
+Online Shop Portfolio Projects Here are some examples of how I have incorporated Angular into my online shop portfolio projects:
+Vue Online Shop with Delivery In this project, I developed an online shop application using Angular and integrated delivery features to allow users to select a delivery address and track the progress of their order.</description>
     </item>
     
     <item>
@@ -23,18 +23,9 @@
       <pubDate>Thu, 16 Feb 2023 08:36:36 -0700</pubDate>
       
       <guid>/skills/ai/</guid>
-      <description>The following lesson explains some of the most common hacking techniques and how to secure your app against them.
-1. Zero-day Vulnerability A zero-day vulnerability is a weakness that is unknown or unfixed as of today. When a hacker decides to attack this weakness, it&amp;rsquo;s called zero-day exploit.</description>
-    </item>
-    
-    <item>
-      <title>CSS</title>
-      <link>/skills/css/</link>
-      <pubDate>Thu, 16 Feb 2023 08:36:36 -0700</pubDate>
-      
-      <guid>/skills/css/</guid>
-      <description>The following lesson explains some of the most common hacking techniques and how to secure your app against them.
-1. Zero-day Vulnerability A zero-day vulnerability is a weakness that is unknown or unfixed as of today. When a hacker decides to attack this weakness, it&amp;rsquo;s called zero-day exploit.</description>
+      <description>Artificial Intelligence (AI) is a rapidly growing field that has revolutionized many industries, including finance. In my portfolio projects, I have utilized AI to improve the accuracy, efficiency, and speed of financial analysis and decision-making processes.
+Finance &amp;amp; AI Portfolio Projects Here are some examples of how I have incorporated AI into my finance and AI portfolio projects:
+Trade Bots Powered by AI In this project, I developed trade bots that used machine learning algorithms to analyze market trends and make trading decisions.</description>
     </item>
     
     <item>
@@ -43,8 +34,9 @@
       <pubDate>Thu, 16 Feb 2023 08:36:36 -0700</pubDate>
       
       <guid>/skills/dev-sec-ops/</guid>
-      <description>The following lesson explains some of the most common hacking techniques and how to secure your app against them.
-1. Zero-day Vulnerability A zero-day vulnerability is a weakness that is unknown or unfixed as of today. When a hacker decides to attack this weakness, it&amp;rsquo;s called zero-day exploit.</description>
+      <description>DevSecOps is a set of practices that combine software development, security, and operations to streamline the development, deployment, and management of applications. In my portfolio projects, I have used DevSecOps principles to manage builds and deployments, ensuring that my applications are secure, scalable, and reliable.
+DevSecOps in Portfolio Projects Here are some examples of how I have incorporated DevSecOps into my portfolio projects:
+Admin Dashboard as a Site Monitor In this project, I used DevSecOps principles to manage the build and deployment of an admin dashboard that monitored site performance and security.</description>
     </item>
     
     <item>
@@ -53,8 +45,9 @@
       <pubDate>Thu, 16 Feb 2023 08:36:36 -0700</pubDate>
       
       <guid>/skills/docker/</guid>
-      <description>The following lesson explains some of the most common hacking techniques and how to secure your app against them.
-1. Zero-day Vulnerability A zero-day vulnerability is a weakness that is unknown or unfixed as of today. When a hacker decides to attack this weakness, it&amp;rsquo;s called zero-day exploit.</description>
+      <description>Docker is a containerization platform that allows developers to package their applications and dependencies into lightweight, portable containers that can run seamlessly across different environments. In my portfolio projects, I have utilized Docker to containerize my applications and streamline the deployment process.
+Docker in Portfolio Projects Here are some examples of how I have incorporated Docker into my portfolio projects:
+DevSecOps Workflows In this project, I used Docker to containerize an application that integrated security features to protect against cyber threats.</description>
     </item>
     
     <item>
@@ -63,8 +56,9 @@
       <pubDate>Thu, 16 Feb 2023 08:36:36 -0700</pubDate>
       
       <guid>/skills/finance/</guid>
-      <description>The following lesson explains some of the most common hacking techniques and how to secure your app against them.
-1. Zero-day Vulnerability A zero-day vulnerability is a weakness that is unknown or unfixed as of today. When a hacker decides to attack this weakness, it&amp;rsquo;s called zero-day exploit.</description>
+      <description>As a discipline, Finance deals with the management of money and investments, as well as the analysis and interpretation of financial data. In my portfolio projects, I have applied Finance concepts to develop solutions that address real-world financial challenges and opportunities.
+Finance in Portfolio Projects Here are some examples of how I have incorporated Finance into my portfolio projects:
+Finance Strategies for Trade Bots In this project, I developed a set of finance strategies that could be used to inform the decisions made by trade bots in the context of a cryptocurrency exchange.</description>
     </item>
     
     <item>
@@ -73,8 +67,8 @@
       <pubDate>Thu, 16 Feb 2023 08:36:36 -0700</pubDate>
       
       <guid>/skills/firebase/</guid>
-      <description>The following lesson explains some of the most common hacking techniques and how to secure your app against them.
-1. Zero-day Vulnerability A zero-day vulnerability is a weakness that is unknown or unfixed as of today. When a hacker decides to attack this weakness, it&amp;rsquo;s called zero-day exploit.</description>
+      <description>Firebase is an open-source platform that combines the functionality of a database and an authentication management system. In my portfolio projects, I have utilized Firebase to build robust and scalable applications.
+Firebase for Authentication Management In many of my portfolio projects, I have required user authentication management systems. Firebase provides an out-of-the-box authentication management system that integrates seamlessly with a database. By using Firebase, I can quickly and easily build authentication workflows, user sign-up, and sign-in functionality.</description>
     </item>
     
     <item>
@@ -83,8 +77,9 @@
       <pubDate>Thu, 16 Feb 2023 08:36:36 -0700</pubDate>
       
       <guid>/skills/go/</guid>
-      <description>The following lesson explains some of the most common hacking techniques and how to secure your app against them.
-1. Zero-day Vulnerability A zero-day vulnerability is a weakness that is unknown or unfixed as of today. When a hacker decides to attack this weakness, it&amp;rsquo;s called zero-day exploit.</description>
+      <description>Golang is a programming language that is becoming increasingly popular for its simplicity, speed, and concurrency. In my portfolio projects, I have used Golang to deploy RESTful servers and plan to explore tRPC servers.
+Golang in Portfolio Projects Here are some examples of how I have incorporated Golang into my portfolio projects:
+Online Shop with Delivery In this project, I used Golang to develop a RESTful server that powers an online shop.</description>
     </item>
     
     <item>
@@ -93,8 +88,9 @@
       <pubDate>Thu, 16 Feb 2023 08:36:36 -0700</pubDate>
       
       <guid>/skills/hugo/</guid>
-      <description>The following lesson explains some of the most common hacking techniques and how to secure your app against them.
-1. Zero-day Vulnerability A zero-day vulnerability is a weakness that is unknown or unfixed as of today. When a hacker decides to attack this weakness, it&amp;rsquo;s called zero-day exploit.</description>
+      <description>Hugo is a static site generator that is becoming increasingly popular for its speed and flexibility. In my portfolio projects, I have used Hugo to create fast and efficient websites.
+Hugo in Portfolio Projects Here are some examples of how I have incorporated Hugo into my portfolio projects:
+Hugo Svelte Portfolio App In this project, I used Hugo to generate a static website that showcases my portfolio. Hugo&amp;rsquo;s fast build times and flexible templating system made it easy to create a customized and professional-looking website.</description>
     </item>
     
     <item>
@@ -103,8 +99,9 @@
       <pubDate>Thu, 16 Feb 2023 08:36:36 -0700</pubDate>
       
       <guid>/skills/pwa/</guid>
-      <description>The following lesson explains some of the most common hacking techniques and how to secure your app against them.
-1. Zero-day Vulnerability A zero-day vulnerability is a weakness that is unknown or unfixed as of today. When a hacker decides to attack this weakness, it&amp;rsquo;s called zero-day exploit.</description>
+      <description>Progressive Web Apps (PWAs) are web applications that provide a native app-like experience for users on a variety of devices. In my portfolio projects, I have utilized PWAs to create fast, responsive, and engaging web applications.
+PWA in Portfolio Projects Here are some examples of how I have incorporated PWA technology into my portfolio projects:
+Vue Online Shop with Delivery In this project, I created a PWA that enables users to shop online and place orders for delivery.</description>
     </item>
     
     <item>
@@ -123,8 +120,8 @@
       <pubDate>Thu, 16 Feb 2023 08:36:36 -0700</pubDate>
       
       <guid>/skills/react/</guid>
-      <description>The following lesson explains some of the most common hacking techniques and how to secure your app against them.
-1. Zero-day Vulnerability A zero-day vulnerability is a weakness that is unknown or unfixed as of today. When a hacker decides to attack this weakness, it&amp;rsquo;s called zero-day exploit.</description>
+      <description>React is a powerful library for building user interfaces, and in my portfolio projects, I have utilized it in unique and creative ways. One such use case is as an Open Graph Image generator.
+React as Open Graph Image Generator Open Graph is a protocol used to provide rich media content in social media platforms like Facebook, LinkedIn, and Twitter. An Open Graph Image is an image that is displayed when a link is shared on social media, and it is crucial for creating a good first impression.</description>
     </item>
     
     <item>
@@ -133,8 +130,8 @@
       <pubDate>Thu, 16 Feb 2023 08:36:36 -0700</pubDate>
       
       <guid>/skills/supabase/</guid>
-      <description>The following lesson explains some of the most common hacking techniques and how to secure your app against them.
-1. Zero-day Vulnerability A zero-day vulnerability is a weakness that is unknown or unfixed as of today. When a hacker decides to attack this weakness, it&amp;rsquo;s called zero-day exploit.</description>
+      <description>Supabase is an open-source platform that combines the functionality of a database and an authentication management system. In my portfolio projects, I have utilized Supabase to build robust and scalable applications.
+Supabase for Authentication Management In many of my portfolio projects, I have required user authentication management systems. Supabase provides an out-of-the-box authentication management system that integrates seamlessly with a database. By using Supabase, I can quickly and easily build authentication workflows, user sign-up, and sign-in functionality.</description>
     </item>
     
     <item>
@@ -148,13 +145,23 @@
     </item>
     
     <item>
+      <title>Tailwindcss</title>
+      <link>/skills/tailwindcss/</link>
+      <pubDate>Thu, 16 Feb 2023 08:36:36 -0700</pubDate>
+      
+      <guid>/skills/tailwindcss/</guid>
+      <description>Tailwind CSS is a utility-first CSS framework used in my portfolio projects as a pre-processor and PostCSS plugin. Its primary goal is to provide a set of pre-defined styles and classes that can be used to style HTML elements quickly and easily, without having to write custom CSS.
+Design Framework In my Portfolio portfolio project, Tailwind CSS was used to style the user interface of the application. Its utility classes made it easy to style each component of the application without having to write custom CSS, saving time and improving the maintainability of the code.</description>
+    </item>
+    
+    <item>
       <title>Typescript</title>
       <link>/skills/typescript/</link>
       <pubDate>Thu, 16 Feb 2023 08:36:36 -0700</pubDate>
       
       <guid>/skills/typescript/</guid>
-      <description>The following lesson explains some of the most common hacking techniques and how to secure your app against them.
-1. Zero-day Vulnerability A zero-day vulnerability is a weakness that is unknown or unfixed as of today. When a hacker decides to attack this weakness, it&amp;rsquo;s called zero-day exploit.</description>
+      <description>Typescript is a strongly typed superset of JavaScript that adds optional static type checking and other features to the language. In my portfolio projects, Typescript was used as the Node runtime with type support.
+Benefits By using Typescript, I was able to catch type errors at compile-time rather than at runtime, which improved the quality and reliability of the code. It also made it easier to maintain the codebase over time by making it more self-documenting and easier to understand.</description>
     </item>
     
     <item>
@@ -163,8 +170,8 @@
       <pubDate>Thu, 16 Feb 2023 08:36:36 -0700</pubDate>
       
       <guid>/skills/vue/</guid>
-      <description>The following lesson explains some of the most common hacking techniques and how to secure your app against them.
-1. Zero-day Vulnerability A zero-day vulnerability is a weakness that is unknown or unfixed as of today. When a hacker decides to attack this weakness, it&amp;rsquo;s called zero-day exploit.</description>
+      <description>Vue is a progressive JavaScript framework that is designed to help developers build user interfaces more efficiently and effectively. In my portfolio projects, Vue was used as the primary framework for building complex, responsive, and interactive web applications.
+Benefits By using Vue, I was able to take advantage of its powerful features, including reactive data binding, component-based architecture, and the virtual DOM. This enabled me to create highly modular and reusable code, which made it easier to develop and maintain the applications over time.</description>
     </item>
     
   </channel>

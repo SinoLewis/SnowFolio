@@ -5,16 +5,15 @@
     <link>/projects/</link>
     <description>Recent content in Projects on SnowForlio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 16 Feb 2023 08:36:36 -0700</lastBuildDate><atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>blockchain-security</title>
       <link>/projects/blockchain-security/</link>
       <pubDate>Thu, 16 Feb 2023 08:36:36 -0700</pubDate>
       
       <guid>/projects/blockchain-security/</guid>
-      <description>The following lesson explains some of the most common hacking techniques and how to secure your app against them.
-1. Zero-day Vulnerability A zero-day vulnerability is a weakness that is unknown or unfixed as of today. When a hacker decides to attack this weakness, it&amp;rsquo;s called zero-day exploit.</description>
+      <description>Overview Blockchain-Security App is a security application designed to identify and prevent security breaches in blockchain-based applications. This app is built to protect blockchain systems against cyber threats and vulnerabilities by performing thorough penetration testing, identifying weak points in the system, and fixing them.
+The app utilizes a combination of blockchain and security technologies to ensure the protection of your blockchain-based systems from malicious attacks. The security features of the app include a secure login system, 2-factor authentication, and advanced encryption algorithms to protect user data.</description>
     </item>
     
     <item>
@@ -23,8 +22,8 @@
       <pubDate>Thu, 16 Feb 2023 08:36:36 -0700</pubDate>
       
       <guid>/projects/dev-sec-ops/</guid>
-      <description>The following lesson explains some of the most common hacking techniques and how to secure your app against them.
-1. Zero-day Vulnerability A zero-day vulnerability is a weakness that is unknown or unfixed as of today. When a hacker decides to attack this weakness, it&amp;rsquo;s called zero-day exploit.</description>
+      <description>Overview The Dev-Sec-Ops Workflows project is a comprehensive guide to integrating security into the software development lifecycle. This project outlines the necessary steps and processes to ensure that security is embedded into every stage of the development process, from design to deployment.
+The project covers a range of topics related to Dev-Sec-Ops, including vulnerability scanning, threat modeling, secure coding practices, and security testing. By following the guidelines outlined in this project, developers can ensure that security is an integral part of their software development process, reducing the risk of security breaches and vulnerabilities.</description>
     </item>
     
     <item>
@@ -33,8 +32,8 @@
       <pubDate>Thu, 16 Feb 2023 08:36:36 -0700</pubDate>
       
       <guid>/projects/finance-strategies/</guid>
-      <description>The following lesson explains some of the most common hacking techniques and how to secure your app against them.
-1. Zero-day Vulnerability A zero-day vulnerability is a weakness that is unknown or unfixed as of today. When a hacker decides to attack this weakness, it&amp;rsquo;s called zero-day exploit.</description>
+      <description>Overview The Finance Strategies for Trade Bots project is a comprehensive guide to developing and implementing effective trading strategies for bots in the finance industry. This project outlines a range of strategies that can be used to optimize trading algorithms, reduce risk, and increase profitability.
+The project covers a range of topics related to finance and trading, including quantitative finance, algorithmic trading, machine learning, and data analysis. By following the guidelines outlined in this project, traders and developers can create more effective trading bots that can be used to automate trading strategies in a range of financial markets.</description>
     </item>
     
     <item>
@@ -43,8 +42,8 @@
       <pubDate>Thu, 16 Feb 2023 08:36:36 -0700</pubDate>
       
       <guid>/projects/fireshop/</guid>
-      <description>The following lesson explains some of the most common hacking techniques and how to secure your app against them.
-1. Zero-day Vulnerability A zero-day vulnerability is a weakness that is unknown or unfixed as of today. When a hacker decides to attack this weakness, it&amp;rsquo;s called zero-day exploit.</description>
+      <description>Overview The Online Shop with Delivery project is a full-stack e-commerce solution that allows customers to shop for products online and have them delivered to their doorsteps. The project provides an intuitive and user-friendly interface for customers to browse products, add them to their cart, and checkout securely.
+The project covers a range of features related to e-commerce, including product management, shopping cart management, payment processing, and delivery management. By following the guidelines outlined in this project, businesses can easily set up an online store with delivery capabilities, making it easy for customers to shop from the comfort of their homes.</description>
     </item>
     
     <item>
@@ -53,8 +52,8 @@
       <pubDate>Thu, 16 Feb 2023 08:36:36 -0700</pubDate>
       
       <guid>/projects/gigs-dash/</guid>
-      <description>The following lesson explains some of the most common hacking techniques and how to secure your app against them.
-1. Zero-day Vulnerability A zero-day vulnerability is a weakness that is unknown or unfixed as of today. When a hacker decides to attack this weakness, it&amp;rsquo;s called zero-day exploit.</description>
+      <description>Overview The Admin Dashboard as a Site Monitor project is a full-stack web application that allows administrators to monitor the performance and health of their website in real-time. The project provides an intuitive and user-friendly interface for administrators to view site metrics, such as traffic, load times, and error rates, and take action to resolve issues as they arise.
+The project covers a range of features related to site monitoring, including real-time data visualization, notification alerts, and issue resolution workflows.</description>
     </item>
     
     <item>
@@ -63,8 +62,8 @@
       <pubDate>Thu, 16 Feb 2023 08:36:36 -0700</pubDate>
       
       <guid>/projects/leetcode/</guid>
-      <description>The following lesson explains some of the most common hacking techniques and how to secure your app against them.
-1. Zero-day Vulnerability A zero-day vulnerability is a weakness that is unknown or unfixed as of today. When a hacker decides to attack this weakness, it&amp;rsquo;s called zero-day exploit.</description>
+      <description>Overview The LeetCode Solutions App is a mobile application that provides solutions to coding problems from LeetCode, a popular platform for practicing coding skills. The app provides an intuitive and user-friendly interface for users to browse through different coding problems, view their solutions, and track their progress.
+The project covers a range of features related to coding practice, including problem categorization, solution explanations, and progress tracking. By following the guidelines outlined in this project, developers can easily build a mobile application that helps users practice coding skills and prepare for technical interviews.</description>
     </item>
     
     <item>
@@ -73,8 +72,8 @@
       <pubDate>Thu, 16 Feb 2023 08:36:36 -0700</pubDate>
       
       <guid>/projects/machine-learning-colabs/</guid>
-      <description>The following lesson explains some of the most common hacking techniques and how to secure your app against them.
-1. Zero-day Vulnerability A zero-day vulnerability is a weakness that is unknown or unfixed as of today. When a hacker decides to attack this weakness, it&amp;rsquo;s called zero-day exploit.</description>
+      <description>Google Colab is a cloud-based platform that allows users to write, run, and share Python code in a Jupyter notebook environment. As a machine learning developer, I have used Google Colab extensively to build and train machine learning models for various projects.
+Image Classification In one of my machine learning projects, I used Google Colab to build an image classification app. The app was able to classify images of different animals using convolutional neural networks (CNNs).</description>
     </item>
     
     <item>
@@ -83,8 +82,8 @@
       <pubDate>Thu, 16 Feb 2023 08:36:36 -0700</pubDate>
       
       <guid>/projects/nft-market/</guid>
-      <description>The following lesson explains some of the most common hacking techniques and how to secure your app against them.
-1. Zero-day Vulnerability A zero-day vulnerability is a weakness that is unknown or unfixed as of today. When a hacker decides to attack this weakness, it&amp;rsquo;s called zero-day exploit.</description>
+      <description>Overview The NFT-Market Web3 App is a decentralized marketplace for buying and selling non-fungible tokens (NFTs) on the blockchain. The app provides an intuitive and user-friendly interface for users to browse through different NFTs, view their details, and place bids or make purchases using cryptocurrency.
+The project covers a range of features related to NFT marketplaces, including smart contract integration, secure wallet management, and user authentication. By following the guidelines outlined in this project, developers can easily build a decentralized marketplace for NFTs that ensures the security of transactions and the authenticity of NFTs.</description>
     </item>
     
     <item>
@@ -93,8 +92,8 @@
       <pubDate>Thu, 16 Feb 2023 08:36:36 -0700</pubDate>
       
       <guid>/projects/openai-finance/</guid>
-      <description>The following lesson explains some of the most common hacking techniques and how to secure your app against them.
-1. Zero-day Vulnerability A zero-day vulnerability is a weakness that is unknown or unfixed as of today. When a hacker decides to attack this weakness, it&amp;rsquo;s called zero-day exploit.</description>
+      <description>Overview The Trade Bots Powered by AI App is a platform for traders to automate their trading strategies using artificial intelligence (AI) and machine learning (ML). The app provides an intuitive and user-friendly interface for users to create trading bots that analyze market data, make trades, and monitor the performance of their trading strategies.
+The project covers a range of features related to automated trading, including data analysis, strategy creation, and real-time monitoring.</description>
     </item>
     
     <item>
@@ -103,8 +102,8 @@
       <pubDate>Thu, 16 Feb 2023 08:36:36 -0700</pubDate>
       
       <guid>/projects/snow-forlio/</guid>
-      <description>The following lesson explains some of the most common hacking techniques and how to secure your app against them.
-1. Zero-day Vulnerability A zero-day vulnerability is a weakness that is unknown or unfixed as of today. When a hacker decides to attack this weakness, it&amp;rsquo;s called zero-day exploit.</description>
+      <description>Hugo is a static site generator that allows users to create fast and secure websites. Svelte, on the other hand, is a JavaScript framework that enables developers to build web applications using a reactive approach. As a web developer, I have used both Hugo and Svelte in my projects, and I recently created a portfolio app using these technologies.
+Overview The Hugo Svelte Portfolio App is a fast and responsive web application that showcases my web development skills and projects.</description>
     </item>
     
     <item>
@@ -113,8 +112,8 @@
       <pubDate>Thu, 16 Feb 2023 08:36:36 -0700</pubDate>
       
       <guid>/projects/-tryhackme-writeups/</guid>
-      <description>The following lesson explains some of the most common hacking techniques and how to secure your app against them.
-1. Zero-day Vulnerability A zero-day vulnerability is a weakness that is unknown or unfixed as of today. When a hacker decides to attack this weakness, it&amp;rsquo;s called zero-day exploit.</description>
+      <description>Overview The TryHackMe Writeups Pentests project is a collection of writeups that document my experiences completing various TryHackMe penetration testing challenges. This project provides a comprehensive overview of my methodology, tools, and techniques used to solve the challenges presented by TryHackMe.
+My writeups cover a range of topics, including web application security, network security, cryptography, and reverse engineering. Each writeup provides detailed information on the approach taken to solve the challenge, the tools and techniques used, and the lessons learned.</description>
     </item>
     
     <item>

@@ -26,9 +26,6 @@
     <loc>/tags/cryptocurrency/</loc>
     <lastmod>2023-02-16T08:36:36-07:00</lastmod>
   </url><url>
-    <loc>/skills/css/</loc>
-    <lastmod>2023-02-16T08:36:36-07:00</lastmod>
-  </url><url>
     <loc>/tags/cybersecurity/</loc>
     <lastmod>2023-02-16T08:36:36-07:00</lastmod>
   </url><url>
@@ -89,6 +86,9 @@
     <loc>/skills/hugo/</loc>
     <lastmod>2023-02-16T08:36:36-07:00</lastmod>
   </url><url>
+    <loc>/achievements/icdl/</loc>
+    <lastmod>2023-02-16T08:36:36-07:00</lastmod>
+  </url><url>
     <loc>/socials/instagram/</loc>
     <lastmod>2023-02-16T08:36:36-07:00</lastmod>
   </url><url>
@@ -140,9 +140,6 @@
     <loc>/tags/portfolio/</loc>
     <lastmod>2023-02-16T08:36:36-07:00</lastmod>
   </url><url>
-    <loc>/projects/</loc>
-    <lastmod>2023-02-16T08:36:36-07:00</lastmod>
-  </url><url>
     <loc>/tags/pwa/</loc>
     <lastmod>2023-02-16T08:36:36-07:00</lastmod>
   </url><url>
@@ -161,16 +158,10 @@
     <loc>/tags/sass/</loc>
     <lastmod>2023-02-16T08:36:36-07:00</lastmod>
   </url><url>
-    <loc>/skills/</loc>
-    <lastmod>2023-02-16T08:36:36-07:00</lastmod>
-  </url><url>
     <loc>/projects/snow-forlio/</loc>
     <lastmod>2023-02-16T08:36:36-07:00</lastmod>
   </url><url>
     <loc>/</loc>
-    <lastmod>2023-02-16T08:36:36-07:00</lastmod>
-  </url><url>
-    <loc>/socials/</loc>
     <lastmod>2023-02-16T08:36:36-07:00</lastmod>
   </url><url>
     <loc>/socials/stackoverflow/</loc>
@@ -195,6 +186,9 @@
     <lastmod>2023-02-16T08:36:36-07:00</lastmod>
   </url><url>
     <loc>/tags/tailwindcss/</loc>
+    <lastmod>2023-02-16T08:36:36-07:00</lastmod>
+  </url><url>
+    <loc>/skills/tailwindcss/</loc>
     <lastmod>2023-02-16T08:36:36-07:00</lastmod>
   </url><url>
     <loc>/tags/tradebot/</loc>
@@ -236,6 +230,18 @@
     <loc>/tags/web3js/</loc>
     <lastmod>2023-02-16T08:36:36-07:00</lastmod>
   </url><url>
+    <loc>/achievements/</loc>
+    <lastmod>2023-02-26T20:16:05+00:00</lastmod>
+  </url><url>
     <loc>/categories/</loc>
+  </url><url>
+    <loc>/projects/</loc>
+    <lastmod>2023-02-26T20:16:05+00:00</lastmod>
+  </url><url>
+    <loc>/skills/</loc>
+    <lastmod>2023-02-26T20:16:05+00:00</lastmod>
+  </url><url>
+    <loc>/socials/</loc>
+    <lastmod>2023-02-26T20:16:05+00:00</lastmod>
   </url>
 </urlset>
