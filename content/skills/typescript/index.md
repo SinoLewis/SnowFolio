@@ -7,8 +7,14 @@ draft: false
 description: Strict syntactical superset of JavaScript 
 ---
 
-The following lesson explains some of the most common hacking techniques and how to secure your app against them.
+Typescript is a strongly typed superset of JavaScript that adds optional static type checking and other features to the language. In my portfolio projects, Typescript was used as the Node runtime with type support.
 
-## 1. Zero-day Vulnerability
+## Benefits
 
-A **zero-day vulnerability** is a weakness that is unknown or unfixed as of today. When a hacker decides to attack this weakness, it's called **zero-day exploit**.
+By using Typescript, I was able to catch type errors at compile-time rather than at runtime, which improved the quality and reliability of the code. It also made it easier to maintain the codebase over time by making it more self-documenting and easier to understand.
+
+Typescript also helped me to improve the performance of my code by enabling better optimization and minimizing the amount of runtime type-checking that needed to be performed.
+
+## Conclusion
+
+Overall, Typescript is a powerful tool that helps to improve the quality and reliability of code by adding optional static type checking and other features to the JavaScript language. By using Typescript as the Node runtime with type support in my portfolio projects, I was able to create applications that were more efficient, reliable, and easier to maintain over time.
