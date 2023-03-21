@@ -8,13 +8,14 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 16 Feb 2023 08:36:36 -0700</lastBuildDate><atom:link href="/tags/devsecops/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>DevSecOps</title>
-      <link>/projects/dev-sec-ops/</link>
+      <title>DevSecOps Workflows</title>
+      <link>/projects/devsecops-workflows/</link>
       <pubDate>Thu, 16 Feb 2023 08:36:36 -0700</pubDate>
       
-      <guid>/projects/dev-sec-ops/</guid>
-      <description>Overview The Dev-Sec-Ops Workflows project is a comprehensive guide to integrating security into the software development lifecycle. This project outlines the necessary steps and processes to ensure that security is embedded into every stage of the development process, from design to deployment.
-The project covers a range of topics related to Dev-Sec-Ops, including vulnerability scanning, threat modeling, secure coding practices, and security testing. By following the guidelines outlined in this project, developers can ensure that security is an integral part of their software development process, reducing the risk of security breaches and vulnerabilities.</description>
+      <guid>/projects/devsecops-workflows/</guid>
+      <description>Click 👉 this to view project repository
+Overview The Dev-Sec-Ops Workflows project is a comprehensive guide to integrating security into the software development lifecycle. This project outlines the necessary steps and processes to ensure that security is embedded into every stage of the development process, from design to deployment.
+The project covers a range of topics related to Dev-Sec-Ops, including vulnerability scanning, threat modeling, secure coding practices, and security testing.</description>
     </item>
     
   </channel>

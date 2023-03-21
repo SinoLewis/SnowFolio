@@ -4,8 +4,8 @@
     <meta charset="utf-8">
     <title>Vite Shop</title>
     <link rel="shortcut icon" href="/img/favicon.png" type="image/x-icon">
-    <link rel="stylesheet" href="/svelte/index.4f84f88f.css" />
-    <script type="module" defer src="/svelte/index.7c7cb251.js" /></script>
+    <link rel="stylesheet" href="/svelte/index.0b015970.css" />
+    <script type="module" defer src="/svelte/index.0915ca0c.js" /></script>
 
     
     <link rel="shortcut icon" href="/img/favicon.png" type="image/x-icon">
@@ -15,8 +15,6 @@
     <link rel="manifest" href="/manifest.json">
     
 
-
-    
  
 
 
@@ -25,19 +23,19 @@
     <link rel="canonical" href="/projects/vite-shop/" />
 
     <meta name="description" content="User-friendly interface for customers to browse products, place orders, and make payments.">
-    <meta name="image" content="/img/default-cover.png">
+    <meta name="image" content="/projects/vite-shop/img/featured.png">
 
     <meta property="og:title" content="Vite Shop" />
     <meta property="og:type" content="article" />
     <meta property="og:url" content="/projects/vite-shop/" />
-    <meta property="og:image" content="/img/default-cover.png" />
+    <meta property="og:image" content="/projects/vite-shop/img/featured.png" />
     <meta property="og:description" content="User-friendly interface for customers to browse products, place orders, and make payments." />
 
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:site" content="@fireship_dev">
     <meta name="twitter:title" content="Vite Shop">
     <meta name="twitter:description" content="User-friendly interface for customers to browse products, place orders, and make payments.">
-    <meta name="twitter:image" content="/img/default-cover.png">
+    <meta name="twitter:image" content="/projects/vite-shop/img/featured.png">
     
     <script>
       if ('serviceWorker' in navigator) {
@@ -65,33 +63,40 @@
     />
   </a>
 
-  <ul class="flex justify-center items-center">
-    <li class="mx-2 md:mx-4 hover:scale-105 transition-transform">
+  <ul class="grid grid-cols-3">
+    <li class="p-2 w-fit h-fit hover:scale-105 transition-transform">
       <a
         href="/projects"
-        class="w-2 font-display text-base font-normal text-blue-500 border-blue-400 border rounded-md px-2 py-1 hover:drop-shadow-[0_0_9px_rgba(34,197,94,0.9)]"
-        >Projects 🖥️</a
+        class="p-2 font-display text-base text-blue-500 border-blue-400 border rounded-md hover:drop-shadow-[0_0_9px_rgba(34,197,94,0.9)]"
+        >🖥️ Projects</a
       >
     </li>
-    <li class="mx-2 md:mx-4 hover:scale-105 transition-transform">
+    <li class="p-2 w-fit h-fit hover:scale-105 transition-transform">
       <a
         href="/skills"
-        class="w-2 font-display text-base font-normal text-red-500 border-red-400 border rounded-md px-2 py-1 hover:drop-shadow-[0_0_9px_rgba(34,197,94,0.9)]"
-        >Skills 🥋</a
+        class="p-2 font-display text-base text-red-500 border-red-400 border rounded-md hover:drop-shadow-[0_0_9px_rgba(34,197,94,0.9)]"
+        >🥋 Skills</a
       >
     </li>
-    <li class="mx-2 md:mx-4 hover:scale-105 transition-transform">
+    <li class="p-2 w-fit h-fit hover:scale-105 transition-transform">
       <a
         href="/achievements"
-        class="w-2 font-display text-base font-normal text-yellow-500 border-yellow-400 border rounded-md px-2 py-1 hover:drop-shadow-[0_0_9px_rgba(34,197,94,0.9)]"
-        >Achievements 🎓</a
+        class="p-2 font-display text-base text-yellow-500 border-yellow-400 border rounded-md hover:drop-shadow-[0_0_9px_rgba(34,197,94,0.9)]"
+        >🎓 Certs</a
       >
     </li>
-    <li class="mx-2 md:mx-4 hover:scale-105 transition-transform">
+    <li class="p-2 w-fit h-fit hover:scale-105 transition-transform">
       <a
         href="/socials"
-        class="w-2 font-display text-base font-normal text-green-500 border-green-400 border rounded-md px-2 py-1 hover:drop-shadow-[0_0_9px_rgba(34,197,94,0.9)]"
-        >Socials 🙋🏾‍♂️</a
+        class="p-2 font-display text-base text-green-500 border-green-400 border rounded-md hover:drop-shadow-[0_0_9px_rgba(34,197,94,0.9)]"
+        >🙋🏾‍♂️ Socials</a
+      >
+    </li>
+    <li class="p-2 w-fit h-fit hover:scale-105 transition-transform">
+      <a
+        href="/tags"
+        class="p-2 font-display text-base text-orange-500 border-orange-400 border rounded-md hover:drop-shadow-[0_0_9px_rgba(34,197,94,0.9)]"
+        >🏷️ Tags</a
       >
     </li>
   </ul>
@@ -121,7 +126,7 @@
 					
 					
 					<a class="flex items-center no-underline" itemprop="author" name="Lewis Nzau" href="/contributors/lewis-nzau/">
-						<img class="w-10 h-10 rounded-full block" src="/contributors/img/lewis-nzau.webp" alt=" avatar">
+						<img class="w-10 h-10 rounded-full block" src="/contributors/img/lewis-nzau.webp" alt="Lewis Nzau avatar">
 						<span class="flex flex-col ml-2">
 							<span class="no-underline">By Lewis Nzau</span>
 							<span class="text-xs text-gray4">Posted <time itemprop="dateModified">Feb 16, 2023</time>
@@ -160,9 +165,44 @@
 				</h1>
 
 
-				<p>The following lesson explains some of the most common hacking techniques and how to secure your app against them.</p>
-<h2 id="1-zero-day-vulnerability">1. Zero-day Vulnerability</h2>
-<p>A <strong>zero-day vulnerability</strong> is a weakness that is unknown or unfixed as of today. When a hacker decides to attack this weakness, it&rsquo;s called <strong>zero-day exploit</strong>.</p>
+				<blockquote>
+<p>Click <a href="https://github.com/SinoLewis/vite-shop">👉 this</a> to view project repository</p>
+</blockquote>
+<h2 id="overview">Overview</h2>
+<p>The Online Shop with Delivery project is a full-stack e-commerce solution that allows customers to shop for products online and have them delivered to their doorsteps. The project provides an intuitive and user-friendly interface for customers to browse products, add them to their cart, and checkout securely.</p>
+<p>The project covers a range of features related to e-commerce, including product management, shopping cart management, payment processing, and delivery management. By following the guidelines outlined in this project, businesses can easily set up an online store with delivery capabilities, making it easy for customers to shop from the comfort of their homes.</p>
+<h2 id="features">Features</h2>
+<ol>
+<li>
+<p><strong>Product Management:</strong> The project provides an intuitive interface for businesses to manage their products, including adding new products, updating existing products, and removing products.</p>
+</li>
+<li>
+<p><strong>Shopping Cart Management:</strong> The project provides a shopping cart feature that allows customers to add products to their cart, view their cart, and modify their cart before checking out.</p>
+</li>
+<li>
+<p><strong>Payment Processing:</strong> The project integrates with popular payment gateways such as Stripe and PayPal, providing customers with a secure and seamless payment experience.</p>
+</li>
+<li>
+<p><strong>Delivery Management:</strong> The project provides an interface for businesses to manage their delivery options, including setting delivery zones, delivery fees, and delivery timeframes.</p>
+</li>
+</ol>
+<h2 id="technologies-used">Technologies Used</h2>
+<ol>
+<li>
+<p><strong>Front-end Technologies:</strong> The project utilizes front-end technologies such as HTML, CSS, and JavaScript, to create an intuitive and user-friendly interface for customers.</p>
+</li>
+<li>
+<p><strong>Back-end Technologies:</strong> The project utilizes back-end technologies such as Node.js and Express, to handle server-side processing, database interactions, and API integrations.</p>
+</li>
+<li>
+<p><strong>Database:</strong> The project utilizes a database such as MySQL or MongoDB, to store product and customer information securely.</p>
+</li>
+<li>
+<p><strong>Payment Gateway Integration:</strong> The project integrates with popular payment gateways such as Stripe and PayPal, to process payments securely and seamlessly.</p>
+</li>
+</ol>
+<h2 id="conclusion">Conclusion</h2>
+<p>The Online Shop with Delivery project provides a comprehensive e-commerce solution for businesses looking to set up an online store with delivery capabilities. By following the guidelines outlined in this project, businesses can easily manage their products, shopping carts, payments, and deliveries, providing customers with a seamless shopping experience. The project utilizes a range of front-end and back-end technologies, as well as payment gateway integrations, to create a secure and reliable e-commerce solution.</p>
 
 
 				
@@ -181,7 +221,10 @@
 		<aside class="tableOfContents">
 			<nav id="TableOfContents">
   <ul>
-    <li><a href="#1-zero-day-vulnerability">1. Zero-day Vulnerability</a></li>
+    <li><a href="#overview">Overview</a></li>
+    <li><a href="#features">Features</a></li>
+    <li><a href="#technologies-used">Technologies Used</a></li>
+    <li><a href="#conclusion">Conclusion</a></li>
   </ul>
 </nav>
 		</aside>

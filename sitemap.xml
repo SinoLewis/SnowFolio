@@ -29,13 +29,16 @@
     <loc>/tags/cybersecurity/</loc>
     <lastmod>2023-02-16T08:36:36-07:00</lastmod>
   </url><url>
+    <loc>/achievements/degree/</loc>
+    <lastmod>2023-02-16T08:36:36-07:00</lastmod>
+  </url><url>
     <loc>/tags/devsecops/</loc>
     <lastmod>2023-02-16T08:36:36-07:00</lastmod>
   </url><url>
-    <loc>/projects/dev-sec-ops/</loc>
+    <loc>/skills/dev-sec-ops/</loc>
     <lastmod>2023-02-16T08:36:36-07:00</lastmod>
   </url><url>
-    <loc>/skills/dev-sec-ops/</loc>
+    <loc>/projects/devsecops-workflows/</loc>
     <lastmod>2023-02-16T08:36:36-07:00</lastmod>
   </url><url>
     <loc>/socials/discord/</loc>
@@ -230,18 +233,24 @@
     <loc>/tags/web3js/</loc>
     <lastmod>2023-02-16T08:36:36-07:00</lastmod>
   </url><url>
+    <loc>/contributors/</loc>
+    <lastmod>2023-03-21T00:20:59+00:00</lastmod>
+  </url><url>
+    <loc>/contributors/lewis-nzau/</loc>
+    <lastmod>2023-03-21T00:20:59+00:00</lastmod>
+  </url><url>
     <loc>/achievements/</loc>
-    <lastmod>2023-02-27T15:20:16+00:00</lastmod>
+    <lastmod>2023-03-21T00:20:59+00:00</lastmod>
   </url><url>
     <loc>/categories/</loc>
   </url><url>
     <loc>/projects/</loc>
-    <lastmod>2023-02-27T15:20:16+00:00</lastmod>
+    <lastmod>2023-03-21T00:20:59+00:00</lastmod>
   </url><url>
     <loc>/skills/</loc>
-    <lastmod>2023-02-27T15:20:16+00:00</lastmod>
+    <lastmod>2023-03-21T00:20:59+00:00</lastmod>
   </url><url>
     <loc>/socials/</loc>
-    <lastmod>2023-02-27T15:20:16+00:00</lastmod>
+    <lastmod>2023-03-21T00:20:59+00:00</lastmod>
   </url>
 </urlset>

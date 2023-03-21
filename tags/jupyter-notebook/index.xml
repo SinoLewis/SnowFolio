@@ -13,8 +13,9 @@
       <pubDate>Thu, 16 Feb 2023 08:36:36 -0700</pubDate>
       
       <guid>/projects/leetcode/</guid>
-      <description>Overview The LeetCode Solutions App is a mobile application that provides solutions to coding problems from LeetCode, a popular platform for practicing coding skills. The app provides an intuitive and user-friendly interface for users to browse through different coding problems, view their solutions, and track their progress.
-The project covers a range of features related to coding practice, including problem categorization, solution explanations, and progress tracking. By following the guidelines outlined in this project, developers can easily build a mobile application that helps users practice coding skills and prepare for technical interviews.</description>
+      <description>Click 👉 this to view project repository
+Overview The LeetCode Solutions App is a mobile application that provides solutions to coding problems from LeetCode, a popular platform for practicing coding skills. The app provides an intuitive and user-friendly interface for users to browse through different coding problems, view their solutions, and track their progress.
+The project covers a range of features related to coding practice, including problem categorization, solution explanations, and progress tracking.</description>
     </item>
     
     <item>
@@ -23,7 +24,8 @@ The project covers a range of features related to coding practice, including pro
       <pubDate>Thu, 16 Feb 2023 08:36:36 -0700</pubDate>
       
       <guid>/projects/machine-learning-colabs/</guid>
-      <description>Google Colab is a cloud-based platform that allows users to write, run, and share Python code in a Jupyter notebook environment. As a machine learning developer, I have used Google Colab extensively to build and train machine learning models for various projects.
+      <description>Click 👉 this to view project repository
+Google Colab is a cloud-based platform that allows users to write, run, and share Python code in a Jupyter notebook environment. As a machine learning developer, I have used Google Colab extensively to build and train machine learning models for various projects.
 Image Classification In one of my machine learning projects, I used Google Colab to build an image classification app. The app was able to classify images of different animals using convolutional neural networks (CNNs).</description>
     </item>
     

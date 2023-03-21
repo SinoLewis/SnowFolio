@@ -14,8 +14,8 @@
       
       <guid>/skills/angular/</guid>
       <description>Angular is a powerful front-end framework that I have used in several of my portfolio projects, including online shop applications. With its robust features and intuitive design, Angular has enabled me to develop complex web applications that deliver a seamless user experience.
-Online Shop Portfolio Projects Here are some examples of how I have incorporated Angular into my online shop portfolio projects:
-Vue Online Shop with Delivery In this project, I developed an online shop application using Angular and integrated delivery features to allow users to select a delivery address and track the progress of their order.</description>
+1. Online Shop Portfolio Projects Here are some examples of how I have incorporated Angular into my online shop portfolio projects:
+2. Vue Online Shop with Delivery In this project, I developed an online shop application using Angular and integrated delivery features to allow users to select a delivery address and track the progress of their order.</description>
     </item>
     
     <item>
@@ -25,8 +25,8 @@ Vue Online Shop with Delivery In this project, I developed an online shop applic
       
       <guid>/skills/ai/</guid>
       <description>Artificial Intelligence (AI) is a rapidly growing field that has revolutionized many industries, including finance. In my portfolio projects, I have utilized AI to improve the accuracy, efficiency, and speed of financial analysis and decision-making processes.
-Finance &amp;amp; AI Portfolio Projects Here are some examples of how I have incorporated AI into my finance and AI portfolio projects:
-Trade Bots Powered by AI In this project, I developed trade bots that used machine learning algorithms to analyze market trends and make trading decisions.</description>
+1. Finance &amp;amp; AI Portfolio Projects Here are some examples of how I have incorporated AI into my finance and AI portfolio projects:
+2. Trade Bots Powered by AI In this project, I developed trade bots that used machine learning algorithms to analyze market trends and make trading decisions.</description>
     </item>
     
     <item>
@@ -35,18 +35,19 @@ Trade Bots Powered by AI In this project, I developed trade bots that used machi
       <pubDate>Thu, 16 Feb 2023 08:36:36 -0700</pubDate>
       
       <guid>/projects/blockchain-security/</guid>
-      <description>Overview Blockchain-Security App is a security application designed to identify and prevent security breaches in blockchain-based applications. This app is built to protect blockchain systems against cyber threats and vulnerabilities by performing thorough penetration testing, identifying weak points in the system, and fixing them.
-The app utilizes a combination of blockchain and security technologies to ensure the protection of your blockchain-based systems from malicious attacks. The security features of the app include a secure login system, 2-factor authentication, and advanced encryption algorithms to protect user data.</description>
+      <description>Click 👉 this to view project repository
+Overview Blockchain-Security App is a security application designed to identify and prevent security breaches in blockchain-based applications. This app is built to protect blockchain systems against cyber threats and vulnerabilities by performing thorough penetration testing, identifying weak points in the system, and fixing them.
+The app utilizes a combination of blockchain and security technologies to ensure the protection of your blockchain-based systems from malicious attacks.</description>
     </item>
     
     <item>
-      <title>DevSecOps</title>
-      <link>/projects/dev-sec-ops/</link>
+      <title>Degree</title>
+      <link>/achievements/degree/</link>
       <pubDate>Thu, 16 Feb 2023 08:36:36 -0700</pubDate>
       
-      <guid>/projects/dev-sec-ops/</guid>
-      <description>Overview The Dev-Sec-Ops Workflows project is a comprehensive guide to integrating security into the software development lifecycle. This project outlines the necessary steps and processes to ensure that security is embedded into every stage of the development process, from design to deployment.
-The project covers a range of topics related to Dev-Sec-Ops, including vulnerability scanning, threat modeling, secure coding practices, and security testing. By following the guidelines outlined in this project, developers can ensure that security is an integral part of their software development process, reducing the risk of security breaches and vulnerabilities.</description>
+      <guid>/achievements/degree/</guid>
+      <description>The following lesson explains some of the most common hacking techniques and how to secure your app against them.
+1. Zero-day Vulnerability A zero-day vulnerability is a weakness that is unknown or unfixed as of today. When a hacker decides to attack this weakness, it&amp;rsquo;s called zero-day exploit.</description>
     </item>
     
     <item>
@@ -56,8 +57,19 @@ The project covers a range of topics related to Dev-Sec-Ops, including vulnerabi
       
       <guid>/skills/dev-sec-ops/</guid>
       <description>DevSecOps is a set of practices that combine software development, security, and operations to streamline the development, deployment, and management of applications. In my portfolio projects, I have used DevSecOps principles to manage builds and deployments, ensuring that my applications are secure, scalable, and reliable.
-DevSecOps in Portfolio Projects Here are some examples of how I have incorporated DevSecOps into my portfolio projects:
-Admin Dashboard as a Site Monitor In this project, I used DevSecOps principles to manage the build and deployment of an admin dashboard that monitored site performance and security.</description>
+1. DevSecOps in Portfolio Projects Here are some examples of how I have incorporated DevSecOps into my portfolio projects:
+2. Admin Dashboard as a Site Monitor In this project, I used DevSecOps principles to manage the build and deployment of an admin dashboard that monitored site performance and security.</description>
+    </item>
+    
+    <item>
+      <title>DevSecOps Workflows</title>
+      <link>/projects/devsecops-workflows/</link>
+      <pubDate>Thu, 16 Feb 2023 08:36:36 -0700</pubDate>
+      
+      <guid>/projects/devsecops-workflows/</guid>
+      <description>Click 👉 this to view project repository
+Overview The Dev-Sec-Ops Workflows project is a comprehensive guide to integrating security into the software development lifecycle. This project outlines the necessary steps and processes to ensure that security is embedded into every stage of the development process, from design to deployment.
+The project covers a range of topics related to Dev-Sec-Ops, including vulnerability scanning, threat modeling, secure coding practices, and security testing.</description>
     </item>
     
     <item>
@@ -77,8 +89,8 @@ Admin Dashboard as a Site Monitor In this project, I used DevSecOps principles t
       
       <guid>/skills/docker/</guid>
       <description>Docker is a containerization platform that allows developers to package their applications and dependencies into lightweight, portable containers that can run seamlessly across different environments. In my portfolio projects, I have utilized Docker to containerize my applications and streamline the deployment process.
-Docker in Portfolio Projects Here are some examples of how I have incorporated Docker into my portfolio projects:
-DevSecOps Workflows In this project, I used Docker to containerize an application that integrated security features to protect against cyber threats.</description>
+1. Docker in Portfolio Projects Here are some examples of how I have incorporated Docker into my portfolio projects:
+2. DevSecOps Workflows In this project, I used Docker to containerize an application that integrated security features to protect against cyber threats.</description>
     </item>
     
     <item>
@@ -88,8 +100,8 @@ DevSecOps Workflows In this project, I used Docker to containerize an applicatio
       
       <guid>/skills/finance/</guid>
       <description>As a discipline, Finance deals with the management of money and investments, as well as the analysis and interpretation of financial data. In my portfolio projects, I have applied Finance concepts to develop solutions that address real-world financial challenges and opportunities.
-Finance in Portfolio Projects Here are some examples of how I have incorporated Finance into my portfolio projects:
-Finance Strategies for Trade Bots In this project, I developed a set of finance strategies that could be used to inform the decisions made by trade bots in the context of a cryptocurrency exchange.</description>
+1. Finance in Portfolio Projects Here are some examples of how I have incorporated Finance into my portfolio projects:
+2. Finance Strategies for Trade Bots In this project, I developed a set of finance strategies that could be used to inform the decisions made by trade bots in the context of a cryptocurrency exchange.</description>
     </item>
     
     <item>
@@ -98,8 +110,9 @@ Finance Strategies for Trade Bots In this project, I developed a set of finance 
       <pubDate>Thu, 16 Feb 2023 08:36:36 -0700</pubDate>
       
       <guid>/projects/finance-strategies/</guid>
-      <description>Overview The Finance Strategies for Trade Bots project is a comprehensive guide to developing and implementing effective trading strategies for bots in the finance industry. This project outlines a range of strategies that can be used to optimize trading algorithms, reduce risk, and increase profitability.
-The project covers a range of topics related to finance and trading, including quantitative finance, algorithmic trading, machine learning, and data analysis. By following the guidelines outlined in this project, traders and developers can create more effective trading bots that can be used to automate trading strategies in a range of financial markets.</description>
+      <description>Click 👉 this to view project repository
+Overview The Finance Strategies for Trade Bots project is a comprehensive guide to developing and implementing effective trading strategies for bots in the finance industry. This project outlines a range of strategies that can be used to optimize trading algorithms, reduce risk, and increase profitability.
+The project covers a range of topics related to finance and trading, including quantitative finance, algorithmic trading, machine learning, and data analysis.</description>
     </item>
     
     <item>
@@ -109,7 +122,7 @@ The project covers a range of topics related to finance and trading, including q
       
       <guid>/skills/firebase/</guid>
       <description>Firebase is an open-source platform that combines the functionality of a database and an authentication management system. In my portfolio projects, I have utilized Firebase to build robust and scalable applications.
-Firebase for Authentication Management In many of my portfolio projects, I have required user authentication management systems. Firebase provides an out-of-the-box authentication management system that integrates seamlessly with a database. By using Firebase, I can quickly and easily build authentication workflows, user sign-up, and sign-in functionality.</description>
+1. Firebase for Authentication Management In many of my portfolio projects, I have required user authentication management systems. Firebase provides an out-of-the-box authentication management system that integrates seamlessly with a database. By using Firebase, I can quickly and easily build authentication workflows, user sign-up, and sign-in functionality.</description>
     </item>
     
     <item>
@@ -118,8 +131,9 @@ Firebase for Authentication Management In many of my portfolio projects, I have 
       <pubDate>Thu, 16 Feb 2023 08:36:36 -0700</pubDate>
       
       <guid>/projects/fireshop/</guid>
-      <description>Overview The Online Shop with Delivery project is a full-stack e-commerce solution that allows customers to shop for products online and have them delivered to their doorsteps. The project provides an intuitive and user-friendly interface for customers to browse products, add them to their cart, and checkout securely.
-The project covers a range of features related to e-commerce, including product management, shopping cart management, payment processing, and delivery management. By following the guidelines outlined in this project, businesses can easily set up an online store with delivery capabilities, making it easy for customers to shop from the comfort of their homes.</description>
+      <description>Click 👉 this to view project repository
+Overview The Online Shop with Delivery project is a full-stack e-commerce solution that allows customers to shop for products online and have them delivered to their doorsteps. The project provides an intuitive and user-friendly interface for customers to browse products, add them to their cart, and checkout securely.
+The project covers a range of features related to e-commerce, including product management, shopping cart management, payment processing, and delivery management.</description>
     </item>
     
     <item>
@@ -138,7 +152,8 @@ The project covers a range of features related to e-commerce, including product 
       <pubDate>Thu, 16 Feb 2023 08:36:36 -0700</pubDate>
       
       <guid>/projects/gigs-dash/</guid>
-      <description>Overview The Admin Dashboard as a Site Monitor project is a full-stack web application that allows administrators to monitor the performance and health of their website in real-time. The project provides an intuitive and user-friendly interface for administrators to view site metrics, such as traffic, load times, and error rates, and take action to resolve issues as they arise.
+      <description>Click 👉 this to view project repository
+Overview The Admin Dashboard as a Site Monitor project is a full-stack web application that allows administrators to monitor the performance and health of their website in real-time. The project provides an intuitive and user-friendly interface for administrators to view site metrics, such as traffic, load times, and error rates, and take action to resolve issues as they arise.
 The project covers a range of features related to site monitoring, including real-time data visualization, notification alerts, and issue resolution workflows.</description>
     </item>
     
@@ -169,8 +184,8 @@ The project covers a range of features related to site monitoring, including rea
       
       <guid>/skills/go/</guid>
       <description>Golang is a programming language that is becoming increasingly popular for its simplicity, speed, and concurrency. In my portfolio projects, I have used Golang to deploy RESTful servers and plan to explore tRPC servers.
-Golang in Portfolio Projects Here are some examples of how I have incorporated Golang into my portfolio projects:
-Online Shop with Delivery In this project, I used Golang to develop a RESTful server that powers an online shop.</description>
+1. Golang in Portfolio Projects Here are some examples of how I have incorporated Golang into my portfolio projects:
+2. Online Shop with Delivery In this project, I used Golang to develop a RESTful server that powers an online shop.</description>
     </item>
     
     <item>
@@ -180,8 +195,8 @@ Online Shop with Delivery In this project, I used Golang to develop a RESTful se
       
       <guid>/skills/hugo/</guid>
       <description>Hugo is a static site generator that is becoming increasingly popular for its speed and flexibility. In my portfolio projects, I have used Hugo to create fast and efficient websites.
-Hugo in Portfolio Projects Here are some examples of how I have incorporated Hugo into my portfolio projects:
-Hugo Svelte Portfolio App In this project, I used Hugo to generate a static website that showcases my portfolio. Hugo&amp;rsquo;s fast build times and flexible templating system made it easy to create a customized and professional-looking website.</description>
+1. Hugo in Portfolio Projects Here are some examples of how I have incorporated Hugo into my portfolio projects:
+2. Hugo Svelte Portfolio App In this project, I used Hugo to generate a static website that showcases my portfolio. Hugo&amp;rsquo;s fast build times and flexible templating system made it easy to create a customized and professional-looking website.</description>
     </item>
     
     <item>
@@ -220,8 +235,9 @@ Hugo Svelte Portfolio App In this project, I used Hugo to generate a static webs
       <pubDate>Thu, 16 Feb 2023 08:36:36 -0700</pubDate>
       
       <guid>/projects/leetcode/</guid>
-      <description>Overview The LeetCode Solutions App is a mobile application that provides solutions to coding problems from LeetCode, a popular platform for practicing coding skills. The app provides an intuitive and user-friendly interface for users to browse through different coding problems, view their solutions, and track their progress.
-The project covers a range of features related to coding practice, including problem categorization, solution explanations, and progress tracking. By following the guidelines outlined in this project, developers can easily build a mobile application that helps users practice coding skills and prepare for technical interviews.</description>
+      <description>Click 👉 this to view project repository
+Overview The LeetCode Solutions App is a mobile application that provides solutions to coding problems from LeetCode, a popular platform for practicing coding skills. The app provides an intuitive and user-friendly interface for users to browse through different coding problems, view their solutions, and track their progress.
+The project covers a range of features related to coding practice, including problem categorization, solution explanations, and progress tracking.</description>
     </item>
     
     <item>
@@ -240,7 +256,8 @@ The project covers a range of features related to coding practice, including pro
       <pubDate>Thu, 16 Feb 2023 08:36:36 -0700</pubDate>
       
       <guid>/projects/machine-learning-colabs/</guid>
-      <description>Google Colab is a cloud-based platform that allows users to write, run, and share Python code in a Jupyter notebook environment. As a machine learning developer, I have used Google Colab extensively to build and train machine learning models for various projects.
+      <description>Click 👉 this to view project repository
+Google Colab is a cloud-based platform that allows users to write, run, and share Python code in a Jupyter notebook environment. As a machine learning developer, I have used Google Colab extensively to build and train machine learning models for various projects.
 Image Classification In one of my machine learning projects, I used Google Colab to build an image classification app. The app was able to classify images of different animals using convolutional neural networks (CNNs).</description>
     </item>
     
@@ -250,8 +267,9 @@ Image Classification In one of my machine learning projects, I used Google Colab
       <pubDate>Thu, 16 Feb 2023 08:36:36 -0700</pubDate>
       
       <guid>/projects/nft-market/</guid>
-      <description>Overview The NFT-Market Web3 App is a decentralized marketplace for buying and selling non-fungible tokens (NFTs) on the blockchain. The app provides an intuitive and user-friendly interface for users to browse through different NFTs, view their details, and place bids or make purchases using cryptocurrency.
-The project covers a range of features related to NFT marketplaces, including smart contract integration, secure wallet management, and user authentication. By following the guidelines outlined in this project, developers can easily build a decentralized marketplace for NFTs that ensures the security of transactions and the authenticity of NFTs.</description>
+      <description>Click 👉 this to view project repository
+Overview The NFT-Market Web3 App is a decentralized marketplace for buying and selling non-fungible tokens (NFTs) on the blockchain. The app provides an intuitive and user-friendly interface for users to browse through different NFTs, view their details, and place bids or make purchases using cryptocurrency.
+The project covers a range of features related to NFT marketplaces, including smart contract integration, secure wallet management, and user authentication.</description>
     </item>
     
     <item>
@@ -260,7 +278,8 @@ The project covers a range of features related to NFT marketplaces, including sm
       <pubDate>Thu, 16 Feb 2023 08:36:36 -0700</pubDate>
       
       <guid>/projects/openai-finance/</guid>
-      <description>Overview The Trade Bots Powered by AI App is a platform for traders to automate their trading strategies using artificial intelligence (AI) and machine learning (ML). The app provides an intuitive and user-friendly interface for users to create trading bots that analyze market data, make trades, and monitor the performance of their trading strategies.
+      <description>Click 👉 this to view project repository
+Overview The Trade Bots Powered by AI App is a platform for traders to automate their trading strategies using artificial intelligence (AI) and machine learning (ML). The app provides an intuitive and user-friendly interface for users to create trading bots that analyze market data, make trades, and monitor the performance of their trading strategies.
 The project covers a range of features related to automated trading, including data analysis, strategy creation, and real-time monitoring.</description>
     </item>
     
@@ -271,8 +290,8 @@ The project covers a range of features related to automated trading, including d
       
       <guid>/skills/pwa/</guid>
       <description>Progressive Web Apps (PWAs) are web applications that provide a native app-like experience for users on a variety of devices. In my portfolio projects, I have utilized PWAs to create fast, responsive, and engaging web applications.
-PWA in Portfolio Projects Here are some examples of how I have incorporated PWA technology into my portfolio projects:
-Vue Online Shop with Delivery In this project, I created a PWA that enables users to shop online and place orders for delivery.</description>
+1. PWA in Portfolio Projects Here are some examples of how I have incorporated PWA technology into my portfolio projects:
+2. Vue Online Shop with Delivery In this project, I created a PWA that enables users to shop online and place orders for delivery.</description>
     </item>
     
     <item>
@@ -292,7 +311,7 @@ Vue Online Shop with Delivery In this project, I created a PWA that enables user
       
       <guid>/skills/react/</guid>
       <description>React is a powerful library for building user interfaces, and in my portfolio projects, I have utilized it in unique and creative ways. One such use case is as an Open Graph Image generator.
-React as Open Graph Image Generator Open Graph is a protocol used to provide rich media content in social media platforms like Facebook, LinkedIn, and Twitter. An Open Graph Image is an image that is displayed when a link is shared on social media, and it is crucial for creating a good first impression.</description>
+1. React as Open Graph Image Generator Open Graph is a protocol used to provide rich media content in social media platforms like Facebook, LinkedIn, and Twitter. An Open Graph Image is an image that is displayed when a link is shared on social media, and it is crucial for creating a good first impression.</description>
     </item>
     
     <item>
@@ -301,7 +320,8 @@ React as Open Graph Image Generator Open Graph is a protocol used to provide ric
       <pubDate>Thu, 16 Feb 2023 08:36:36 -0700</pubDate>
       
       <guid>/projects/snow-forlio/</guid>
-      <description>Hugo is a static site generator that allows users to create fast and secure websites. Svelte, on the other hand, is a JavaScript framework that enables developers to build web applications using a reactive approach. As a web developer, I have used both Hugo and Svelte in my projects, and I recently created a portfolio app using these technologies.
+      <description>Click 👉 this to view project repository
+Hugo is a static site generator that allows users to create fast and secure websites. Svelte, on the other hand, is a JavaScript framework that enables developers to build web applications using a reactive approach. As a web developer, I have used both Hugo and Svelte in my projects, and I recently created a portfolio app using these technologies.
 Overview The Hugo Svelte Portfolio App is a fast and responsive web application that showcases my web development skills and projects.</description>
     </item>
     
@@ -322,7 +342,7 @@ Overview The Hugo Svelte Portfolio App is a fast and responsive web application 
       
       <guid>/skills/supabase/</guid>
       <description>Supabase is an open-source platform that combines the functionality of a database and an authentication management system. In my portfolio projects, I have utilized Supabase to build robust and scalable applications.
-Supabase for Authentication Management In many of my portfolio projects, I have required user authentication management systems. Supabase provides an out-of-the-box authentication management system that integrates seamlessly with a database. By using Supabase, I can quickly and easily build authentication workflows, user sign-up, and sign-in functionality.</description>
+1. Supabase for Authentication Management In many of my portfolio projects, I have required user authentication management systems. Supabase provides an out-of-the-box authentication management system that integrates seamlessly with a database. By using Supabase, I can quickly and easily build authentication workflows, user sign-up, and sign-in functionality.</description>
     </item>
     
     <item>
@@ -342,7 +362,7 @@ Supabase for Authentication Management In many of my portfolio projects, I have 
       
       <guid>/skills/tailwindcss/</guid>
       <description>Tailwind CSS is a utility-first CSS framework used in my portfolio projects as a pre-processor and PostCSS plugin. Its primary goal is to provide a set of pre-defined styles and classes that can be used to style HTML elements quickly and easily, without having to write custom CSS.
-Design Framework In my Portfolio portfolio project, Tailwind CSS was used to style the user interface of the application. Its utility classes made it easy to style each component of the application without having to write custom CSS, saving time and improving the maintainability of the code.</description>
+1. Design Framework In my Portfolio portfolio project, Tailwind CSS was used to style the user interface of the application. Its utility classes made it easy to style each component of the application without having to write custom CSS, saving time and improving the maintainability of the code.</description>
     </item>
     
     <item>
@@ -351,7 +371,8 @@ Design Framework In my Portfolio portfolio project, Tailwind CSS was used to sty
       <pubDate>Thu, 16 Feb 2023 08:36:36 -0700</pubDate>
       
       <guid>/projects/-tryhackme-writeups/</guid>
-      <description>Overview The TryHackMe Writeups Pentests project is a collection of writeups that document my experiences completing various TryHackMe penetration testing challenges. This project provides a comprehensive overview of my methodology, tools, and techniques used to solve the challenges presented by TryHackMe.
+      <description>Click 👉 this to view project repository
+Overview The TryHackMe Writeups Pentests project is a collection of writeups that document my experiences completing various TryHackMe penetration testing challenges. This project provides a comprehensive overview of my methodology, tools, and techniques used to solve the challenges presented by TryHackMe.
 My writeups cover a range of topics, including web application security, network security, cryptography, and reverse engineering. Each writeup provides detailed information on the approach taken to solve the challenge, the tools and techniques used, and the lessons learned.</description>
     </item>
     
@@ -391,8 +412,9 @@ Benefits By using Typescript, I was able to catch type errors at compile-time ra
       <pubDate>Thu, 16 Feb 2023 08:36:36 -0700</pubDate>
       
       <guid>/projects/vite-shop/</guid>
-      <description>The following lesson explains some of the most common hacking techniques and how to secure your app against them.
-1. Zero-day Vulnerability A zero-day vulnerability is a weakness that is unknown or unfixed as of today. When a hacker decides to attack this weakness, it&amp;rsquo;s called zero-day exploit.</description>
+      <description>Click 👉 this to view project repository
+Overview The Online Shop with Delivery project is a full-stack e-commerce solution that allows customers to shop for products online and have them delivered to their doorsteps. The project provides an intuitive and user-friendly interface for customers to browse products, add them to their cart, and checkout securely.
+The project covers a range of features related to e-commerce, including product management, shopping cart management, payment processing, and delivery management.</description>
     </item>
     
     <item>
@@ -403,6 +425,15 @@ Benefits By using Typescript, I was able to catch type errors at compile-time ra
       <guid>/skills/vue/</guid>
       <description>Vue is a progressive JavaScript framework that is designed to help developers build user interfaces more efficiently and effectively. In my portfolio projects, Vue was used as the primary framework for building complex, responsive, and interactive web applications.
 Benefits By using Vue, I was able to take advantage of its powerful features, including reactive data binding, component-based architecture, and the virtual DOM. This enabled me to create highly modular and reusable code, which made it easier to develop and maintain the applications over time.</description>
+    </item>
+    
+    <item>
+      <title>Lewis Nzau</title>
+      <link>/contributors/lewis-nzau/</link>
+      <pubDate>Sat, 27 Feb 2021 09:32:30 -0700</pubDate>
+      
+      <guid>/contributors/lewis-nzau/</guid>
+      <description>Lewis Nzau is a Freelance Developer Expert and the creator of fireshop. When not writing code, he is out seeking adventure expeditions &amp;amp; listen to good music only.</description>
     </item>
     
   </channel>

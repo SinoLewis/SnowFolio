@@ -13,7 +13,8 @@
       <pubDate>Thu, 16 Feb 2023 08:36:36 -0700</pubDate>
       
       <guid>/projects/machine-learning-colabs/</guid>
-      <description>Google Colab is a cloud-based platform that allows users to write, run, and share Python code in a Jupyter notebook environment. As a machine learning developer, I have used Google Colab extensively to build and train machine learning models for various projects.
+      <description>Click 👉 this to view project repository
+Google Colab is a cloud-based platform that allows users to write, run, and share Python code in a Jupyter notebook environment. As a machine learning developer, I have used Google Colab extensively to build and train machine learning models for various projects.
 Image Classification In one of my machine learning projects, I used Google Colab to build an image classification app. The app was able to classify images of different animals using convolutional neural networks (CNNs).</description>
     </item>
     
@@ -23,7 +24,8 @@ Image Classification In one of my machine learning projects, I used Google Colab
       <pubDate>Thu, 16 Feb 2023 08:36:36 -0700</pubDate>
       
       <guid>/projects/-tryhackme-writeups/</guid>
-      <description>Overview The TryHackMe Writeups Pentests project is a collection of writeups that document my experiences completing various TryHackMe penetration testing challenges. This project provides a comprehensive overview of my methodology, tools, and techniques used to solve the challenges presented by TryHackMe.
+      <description>Click 👉 this to view project repository
+Overview The TryHackMe Writeups Pentests project is a collection of writeups that document my experiences completing various TryHackMe penetration testing challenges. This project provides a comprehensive overview of my methodology, tools, and techniques used to solve the challenges presented by TryHackMe.
 My writeups cover a range of topics, including web application security, network security, cryptography, and reverse engineering. Each writeup provides detailed information on the approach taken to solve the challenge, the tools and techniques used, and the lessons learned.</description>
     </item>
     
