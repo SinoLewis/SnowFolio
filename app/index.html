@@ -9,33 +9,15 @@
 
   <body class="prose dark:prose-invert">
     <h1>Good cookup Sesh 🚀.</h1>
-    <user-data></user-data>
 
-    <cart-buttons product_title="Hyaluronic Acid Serum"></cart-buttons> <br />
-    <cart-buttons product_title="Eau De Perfume Spray"></cart-buttons> <br />
-
-    <modal-action type="open" name="signin">
-      <button>Open Login</button>
-    </modal-action>
-    <br />
-    <modal-action type="open" name="search">
-      <button>Open Search</button>
+    <modal-action type="open" name="nav">
+      <button>Toggle Navlinks</button>
     </modal-action>
     <br />
 
-    <checkout-tabs></checkout-tabs>
-    <br />
-    <testin-button></testin-button>
-
-    <meili-search></meili-search>
-    <supa-signin></supa-signin>
+    <nav-toggle></nav-toggle>
     <toast-message></toast-message>
 
     <script type="module" src="/main.ts"></script>
   </body>
-  <style global lang="postcss">
-    @tailwind base;
-    @tailwind components;
-    @tailwind utilities;
-  </style>
 </html>
