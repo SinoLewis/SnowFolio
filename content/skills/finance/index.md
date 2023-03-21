@@ -9,15 +9,15 @@ description: Strategic financial management programmatically
 
 As a discipline, Finance deals with the management of money and investments, as well as the analysis and interpretation of financial data. In my portfolio projects, I have applied Finance concepts to develop solutions that address real-world financial challenges and opportunities.
 
-## Finance in Portfolio Projects
+## 1. Finance in Portfolio Projects
 
 Here are some examples of how I have incorporated Finance into my portfolio projects:
 
-## Finance Strategies for Trade Bots
+## 2. Finance Strategies for Trade Bots
 
 In this project, I developed a set of finance strategies that could be used to inform the decisions made by trade bots in the context of a cryptocurrency exchange. By leveraging key concepts from Finance, such as risk management and portfolio optimization, I was able to develop strategies that maximized profits while minimizing risks.
 
-## Blockchain Pentest Security App
+## 3. Blockchain Pentest Security App
 
 In this project, I developed an application that could be used to perform penetration testing on blockchain networks. To do this, I drew upon my knowledge of Finance to analyze the incentives and motivations of malicious actors who might attempt to compromise the security of a blockchain network. By understanding these factors, I was able to develop more effective and comprehensive testing protocols.
 

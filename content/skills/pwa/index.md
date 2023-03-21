@@ -9,15 +9,15 @@ description: Native application software delivered through the web.
 
 Progressive Web Apps (PWAs) are web applications that provide a native app-like experience for users on a variety of devices. In my portfolio projects, I have utilized PWAs to create fast, responsive, and engaging web applications.
 
-## PWA in Portfolio Projects
+## 1. PWA in Portfolio Projects
 
 Here are some examples of how I have incorporated PWA technology into my portfolio projects:
 
-## Vue Online Shop with Delivery
+## 2. Vue Online Shop with Delivery
 
 In this project, I created a PWA that enables users to shop online and place orders for delivery. By utilizing PWA technology, I was able to create a fast, responsive, and engaging shopping experience that users can access from a variety of devices.
 
-## Admin Dashboard as a Site Monitor
+## 3. Admin Dashboard as a Site Monitor
 
 In this project, I created a PWA that enables users to monitor the performance and health of their websites. By utilizing PWA technology, I was able to create a fast and responsive dashboard that users can access from a variety of devices, making it easy to monitor their websites on the go.
 

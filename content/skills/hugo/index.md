@@ -9,15 +9,15 @@ description: Hugo is a static site generator written in Go.
 
 Hugo is a static site generator that is becoming increasingly popular for its speed and flexibility. In my portfolio projects, I have used Hugo to create fast and efficient websites.
 
-## Hugo in Portfolio Projects
+## 1. Hugo in Portfolio Projects
 
 Here are some examples of how I have incorporated Hugo into my portfolio projects:
 
-## Hugo Svelte Portfolio App
+## 2. Hugo Svelte Portfolio App
 
 In this project, I used Hugo to generate a static website that showcases my portfolio. Hugo's fast build times and flexible templating system made it easy to create a customized and professional-looking website. Additionally, since the website is static, it can be hosted on any web server, making it easy to deploy and scale.
 
-## Blockchain Pentest Security App
+## 3. Blockchain Pentest Security App
 
 In this project, I used Hugo to create a website that showcases my blockchain pentesting skills. I used Hugo's flexibility to create custom layouts and themes, allowing me to present my work in an engaging and visually appealing way. Since Hugo generates a static website, the resulting site is incredibly fast and efficient, making it easy for visitors to explore and interact with my work.
 

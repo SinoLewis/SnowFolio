@@ -1,5 +1,5 @@
 ---
-title: DevSecOps
+title: DevSecOps Workflows
 lastmod: 2023-02-16T08:36:36-07:00
 publishdate: 2023-02-16T08:36:36-07:00
 author: Lewis Nzau
@@ -8,6 +8,8 @@ description: Workflows for automated testing, continuous integration and deploym
 tags:
   - devsecops
 ---
+
+> Click [👉 this](https://github.com/SinoLewis/dev-sec-ops) to view project repository
 
 ## Overview
 

@@ -9,15 +9,15 @@ description: Statically typed, compiled high-level programming language.
 
 Golang is a programming language that is becoming increasingly popular for its simplicity, speed, and concurrency. In my portfolio projects, I have used Golang to deploy RESTful servers and plan to explore tRPC servers.
 
-## Golang in Portfolio Projects
+## 1. Golang in Portfolio Projects
 
 Here are some examples of how I have incorporated Golang into my portfolio projects:
 
-## Online Shop with Delivery
+## 2. Online Shop with Delivery
 
 In this project, I used Golang to develop a RESTful server that powers an online shop. This server handles all the business logic for the online shop, including product listings, order management, and payment processing. Golang's simplicity and concurrency features made it a great fit for this project, allowing me to easily handle high levels of traffic and complex business logic.
 
-## Admin Dashboard as Site Monitor
+## 3. Admin Dashboard as Site Monitor
 
 In this project, I used Golang to develop a RESTful server that powers an admin dashboard. This server monitors various metrics related to website performance, such as server response times, website uptime, and page load times. Golang's speed and simplicity were crucial in this project, allowing me to easily perform complex calculations and generate reports in real-time.
 

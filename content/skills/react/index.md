@@ -9,7 +9,7 @@ description: Open-source front-end JavaScript library.
 
 React is a powerful library for building user interfaces, and in my portfolio projects, I have utilized it in unique and creative ways. One such use case is as an Open Graph Image generator.
 
-## React as Open Graph Image Generator
+## 1. React as Open Graph Image Generator
 
 Open Graph is a protocol used to provide rich media content in social media platforms like Facebook, LinkedIn, and Twitter. An Open Graph Image is an image that is displayed when a link is shared on social media, and it is crucial for creating a good first impression.
 

@@ -12,6 +12,8 @@ tags:
   - nfts
 ---
 
+> Click [👉 this](https://github.com/SinoLewis/NFT-market) to view project repository
+
 ## Overview
 
 The NFT-Market Web3 App is a decentralized marketplace for buying and selling non-fungible tokens (NFTs) on the blockchain. The app provides an intuitive and user-friendly interface for users to browse through different NFTs, view their details, and place bids or make purchases using cryptocurrency.

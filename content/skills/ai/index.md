@@ -9,19 +9,19 @@ description: Perceiving, synthesizing, and inferring information—demonstrated 
 
 Artificial Intelligence (AI) is a rapidly growing field that has revolutionized many industries, including finance. In my portfolio projects, I have utilized AI to improve the accuracy, efficiency, and speed of financial analysis and decision-making processes.
 
-## Finance & AI Portfolio Projects
+## 1. Finance & AI Portfolio Projects
 
 Here are some examples of how I have incorporated AI into my finance and AI portfolio projects:
 
-## Trade Bots Powered by AI
+## 2. Trade Bots Powered by AI
 
 In this project, I developed trade bots that used machine learning algorithms to analyze market trends and make trading decisions. The bots could detect patterns in market data and adjust their strategies accordingly, resulting in better performance and higher returns.
 
-## Finance Strategies for Trade Bots
+## 3. Finance Strategies for Trade Bots
 
 This project involved designing and implementing AI-driven finance strategies for trade bots. By analyzing historical market data and predicting future market trends, the bots could execute trades with higher accuracy and efficiency, resulting in improved performance and profits.
 
-## Machine Learning Apps in Google Colabs
+## 4. Machine Learning Apps in Google Colabs
 
 In this project, I used Google Colabs to develop machine learning apps for financial analysis and prediction. The apps utilized AI algorithms to analyze large datasets and generate insights into financial trends and patterns, allowing for more informed decision-making.
 

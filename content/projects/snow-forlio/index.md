@@ -14,6 +14,8 @@ tags:
   - vite
 ---
 
+> Click [👉 this](https://github.com/SinoLewis/SnowForlio) to view project repository
+
 Hugo is a static site generator that allows users to create fast and secure websites. Svelte, on the other hand, is a JavaScript framework that enables developers to build web applications using a reactive approach. As a web developer, I have used both Hugo and Svelte in my projects, and I recently created a portfolio app using these technologies.
 
 ## Overview

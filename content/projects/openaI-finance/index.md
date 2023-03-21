@@ -14,6 +14,8 @@ tags:
   - tradebot
 ---
 
+> Click [👉 this](https://github.com/SinoLewis/OpenAI-Finance) to view project repository
+
 ## Overview
 
 The Trade Bots Powered by AI App is a platform for traders to automate their trading strategies using artificial intelligence (AI) and machine learning (ML). The app provides an intuitive and user-friendly interface for users to create trading bots that analyze market data, make trades, and monitor the performance of their trading strategies.

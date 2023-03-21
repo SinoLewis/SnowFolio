@@ -13,6 +13,8 @@ tags:
   - artificial-intelligence
 ---
 
+> Click [👉 this](https://github.com/SinoLewis/machine-learning-colabs) to view project repository
+
 Google Colab is a cloud-based platform that allows users to write, run, and share Python code in a Jupyter notebook environment. As a machine learning developer, I have used Google Colab extensively to build and train machine learning models for various projects.
 
 ## Image Classification

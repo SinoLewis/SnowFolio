@@ -4,7 +4,7 @@ lastmod: 2023-02-16T08:36:36-07:00
 publishdate: 2023-02-16T08:36:36-07:00
 author: Lewis Nzau
 draft: false
-description: Quotes of state of mind
+description: Quotes & conversation of state of mind for any public.
 ---
 
 The following lesson explains some of the most common hacking techniques and how to secure your app against them.

@@ -12,6 +12,8 @@ tags:
   - web3js
 ---
 
+> Click [👉 this](https://github.com/SinoLewis/blockchain-security) to view project repository
+
 ## Overview
 
 **[Blockchain-Security](https://github.com/SinoLewis/blockchain-security)** App is a security application designed to identify and prevent security breaches in blockchain-based applications. This app is built to protect blockchain systems against cyber threats and vulnerabilities by performing thorough penetration testing, identifying weak points in the system, and fixing them.

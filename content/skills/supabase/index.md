@@ -9,13 +9,13 @@ description: Open source Firebase alternative.
 
 Supabase is an open-source platform that combines the functionality of a database and an authentication management system. In my portfolio projects, I have utilized Supabase to build robust and scalable applications.
 
-## Supabase for Authentication Management
+## 1. Supabase for Authentication Management
 
 In many of my portfolio projects, I have required user authentication management systems. Supabase provides an out-of-the-box authentication management system that integrates seamlessly with a database. By using Supabase, I can quickly and easily build authentication workflows, user sign-up, and sign-in functionality.
 
 Supabase offers several authentication methods, including email and password, OAuth, and phone number authentication. These methods can be configured to fit the requirements of a specific project, making it a flexible and powerful tool for managing user authentication.
 
-## Supabase as a Database
+## 2. Supabase as a Database
 
 Supabase also provides a powerful database management system. It offers a PostgreSQL-based database that is fully managed and scalable. This database provides all the features of PostgreSQL, including JSONB, full-text search, and advanced indexing.
 

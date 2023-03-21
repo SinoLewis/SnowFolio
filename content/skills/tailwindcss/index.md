@@ -9,7 +9,7 @@ description: Style sheet language used for describing the presentation of a mark
 
 Tailwind CSS is a utility-first CSS framework used in my portfolio projects as a pre-processor and PostCSS plugin. Its primary goal is to provide a set of pre-defined styles and classes that can be used to style HTML elements quickly and easily, without having to write custom CSS.
 
-## Design Framework
+## 1. Design Framework
 
 In my Portfolio portfolio project, Tailwind CSS was used to style the user interface of the application. Its utility classes made it easy to style each component of the application without having to write custom CSS, saving time and improving the maintainability of the code.
 

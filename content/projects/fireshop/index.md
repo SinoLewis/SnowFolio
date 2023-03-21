@@ -14,6 +14,8 @@ tags:
   - tailwindcss
 ---
 
+> Click [👉 this](https://github.com/SinoLewis/fireshop) to view project repository
+
 ## Overview
 
 The Online Shop with Delivery project is a full-stack e-commerce solution that allows customers to shop for products online and have them delivered to their doorsteps. The project provides an intuitive and user-friendly interface for customers to browse products, add them to their cart, and checkout securely.

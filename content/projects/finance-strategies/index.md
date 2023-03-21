@@ -11,6 +11,8 @@ tags:
   - tradebot
 ---
 
+> Click [👉 this](https://github.com/SinoLewis/finance-strategies) to view project repository
+
 ## Overview
 
 The Finance Strategies for Trade Bots project is a comprehensive guide to developing and implementing effective trading strategies for bots in the finance industry. This project outlines a range of strategies that can be used to optimize trading algorithms, reduce risk, and increase profitability.

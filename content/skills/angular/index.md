@@ -9,15 +9,15 @@ description: TypeScript-based, free and open-source web application framework.
 
 Angular is a powerful front-end framework that I have used in several of my portfolio projects, including online shop applications. With its robust features and intuitive design, Angular has enabled me to develop complex web applications that deliver a seamless user experience.
 
-## Online Shop Portfolio Projects
+## 1. Online Shop Portfolio Projects
 
 Here are some examples of how I have incorporated Angular into my online shop portfolio projects:
 
-## Vue Online Shop with Delivery
+## 2. Vue Online Shop with Delivery
 
 In this project, I developed an online shop application using Angular and integrated delivery features to allow users to select a delivery address and track the progress of their order. The application offered a user-friendly interface that made it easy for customers to browse products, add them to their cart, and complete the checkout process.
 
-## Hugo Svelte Portfolio App
+## 3. Hugo Svelte Portfolio App
 
 In this project, I used Angular to develop a portfolio application that showcased my skills and experience as a developer. The application featured a modern design, responsive layout, and easy-to-navigate interface that highlighted my portfolio projects and work experience.
 

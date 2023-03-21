@@ -4,7 +4,7 @@ lastmod: 2023-02-16T08:36:36-07:00
 publishdate: 2023-02-16T08:36:36-07:00
 author: Lewis Nzau
 draft: false
-description: My online freelance services
+description: My online freelance services on a global online marketplace for your desired work to be engineered.
 ---
 
 The following lesson explains some of the most common hacking techniques and how to secure your app against them.

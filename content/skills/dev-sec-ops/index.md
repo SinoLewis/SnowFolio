@@ -9,15 +9,15 @@ description: Github, Gitlab workflows for automated testing
 
 DevSecOps is a set of practices that combine software development, security, and operations to streamline the development, deployment, and management of applications. In my portfolio projects, I have used DevSecOps principles to manage builds and deployments, ensuring that my applications are secure, scalable, and reliable.
 
-## DevSecOps in Portfolio Projects
+## 1. DevSecOps in Portfolio Projects
 
 Here are some examples of how I have incorporated DevSecOps into my portfolio projects:
 
-## Admin Dashboard as a Site Monitor
+## 2. Admin Dashboard as a Site Monitor
 
 In this project, I used DevSecOps principles to manage the build and deployment of an admin dashboard that monitored site performance and security. By integrating security tools and automated testing into the deployment pipeline, I was able to ensure that the dashboard was secure, reliable, and delivered a seamless user experience.
 
-## DevSecOps Workflows
+## 3. DevSecOps Workflows
 
 In this project, I used DevSecOps workflows to manage the build and deployment of an application that integrated security features to protect against cyber threats. By automating the testing and deployment processes, I was able to deliver a secure, scalable, and efficient application that met the needs of users.
 

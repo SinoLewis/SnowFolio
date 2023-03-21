@@ -12,6 +12,8 @@ tags:
   - supabase
 ---
 
+> Click [👉 this](https://github.com/SinoLewis/GigsDash) to view project repository
+
 ## Overview
 
 The Admin Dashboard as a Site Monitor project is a full-stack web application that allows administrators to monitor the performance and health of their website in real-time. The project provides an intuitive and user-friendly interface for administrators to view site metrics, such as traffic, load times, and error rates, and take action to resolve issues as they arise.

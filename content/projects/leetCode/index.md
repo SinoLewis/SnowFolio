@@ -12,6 +12,8 @@ tags:
   - jupyter-notebook
 ---
 
+> Click [👉 this](https://github.com/SinoLewis/LeetCode) to view project repository
+
 ## Overview
 
 The LeetCode Solutions App is a mobile application that provides solutions to coding problems from LeetCode, a popular platform for practicing coding skills. The app provides an intuitive and user-friendly interface for users to browse through different coding problems, view their solutions, and track their progress.

@@ -3,19 +3,17 @@
 <article
   class="max-w-sm overflow-hidden shadow-xl bg-gray6 y-6 hover:scale-105 rounded-xl transition-transform ease-in-out duration-500"
 >
-  <a class="no-underline">
-    {{/* if img is defined, use it, otherwise default */}} {{ $img := cond
-    (isset . "img") .img (print .context.RelPermalink "img/featured.png") }}
-    {{/* make sure file exists */}} {{ $img := cond (fileExists $img) $img
-    "/img/default-cover.webp" }}
-    <a href="{{ .context.RelPermalink }}">
-      <img
-        href="{{ .context.RelPermalink }}"
-        class="w-full max-h-32 object-cover m-0 mb-1 rounded-t-xl"
-        src="{{ $img }}"
-        alt="{{ .context.Title }}"
-      />
-    </a>
+  {{/* if img is defined, use it, otherwise default */}} {{ $img := cond (isset
+  . "img") .img (print .context.RelPermalink "img/featured.png") }} {{/* make
+  sure file exists */}} {{ $img := cond (fileExists $img) $img
+  "/img/default-cover.webp" }}
+  <a class="no-underline" href="{{ .context.RelPermalink }}">
+    <img
+      href="{{ .context.RelPermalink }}"
+      class="w-full max-h-32 object-cover m-0 mb-1 rounded-t-xl"
+      src="{{ $img }}"
+      alt="{{ .context.Title }}"
+    />
 
     <section class="p-5">
       <h5>{{ .context.Title }}</h5>

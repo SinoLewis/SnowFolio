@@ -11,6 +11,8 @@ tags:
   - penetration-testing
 ---
 
+> Click [👉 this](https://github.com/SinoLewis/tryhackme_writeups) to view project repository
+
 ## Overview
 
 The TryHackMe Writeups Pentests project is a collection of writeups that document my experiences completing various TryHackMe penetration testing challenges. This project provides a comprehensive overview of my methodology, tools, and techniques used to solve the challenges presented by TryHackMe.
