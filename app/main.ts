@@ -22,7 +22,6 @@ scrollSave();
 export const router = flamethrower({ prefetch: "hover", log: false });
 
 // UI
-export * from "./components/ui/nav-toggle.svelte";
 export * from "./components/ui/item-comment.svelte";
 export * from "./components/ui/modal-action.svelte";
 export * from "./components/ui/modal-dialog.svelte";
