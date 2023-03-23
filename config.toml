@@ -1,4 +1,4 @@
 languageCode = 'en-us'
-title = 'SnowForlio'
+title = 'SnowFolio'
 [frontmatter]
 lastmod = ["lastmod", ":fileModTime", "publishDate"]
