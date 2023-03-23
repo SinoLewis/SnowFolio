@@ -6,22 +6,22 @@
 
   let value;
   async function handleSubmit() {
-    sendMessageToWebhook("REVIEW", value);
-    console.log("REVIEW: ", value);
-    value = undefined;
-
-    toast.set({
-      icon: "😎",
-      message: "Your post was succesful!",
-      type: "success",
+    const url = window.location.pathname;
+    sendMessageToWebhook(`${url}: `, value).then(() => {
+      // TEsT
+      console.log("REVIEW URL: ", url);
+      toast.set({
+        icon: "😎",
+        message: "Your post was succesful!",
+        type: "success",
+      });
+      value = null;
     });
   }
 </script>
 
 <form on:submit|preventDefault={handleSubmit}>
-  <div class="area">
-    <div><textarea placeholder="Type your comment" bind:value /></div>
-  </div>
+  <textarea placeholder="Type your comment" bind:value />
   <div>
     <button class="btn btn-lg btn-blue btn-display glow" type="submit"
       >Submit</button
@@ -31,15 +31,12 @@
 
 <style lang="scss">
   form {
-    @apply grid gap-4;
+    @apply grid gap-4 justify-items-center;
   }
 
-  .area {
-    width: 100%;
-    textarea {
-      width: 90%;
-      @apply textarea textarea-bordered textarea-lg w-full;
-    }
+  textarea {
+    width: 22rem;
+    @apply textarea textarea-bordered textarea-lg;
   }
   .btn {
     @apply bg-white text-black uppercase font-bold inline-flex cursor-pointer text-center shadow-md no-underline px-5 py-2 transition-all duration-150 my-0.5;

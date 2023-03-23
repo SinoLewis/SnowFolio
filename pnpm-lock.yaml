@@ -9,6 +9,7 @@ specifiers:
   autoprefixer: ^10.4.8
   concurrently: ^7.3.0
   daisyui: ^2.49.0
+  dotenv: ^16.0.3
   eslint: ^8.23.0
   flamethrower-router: ^0.0.0-meme.12
   js-confetti: ^0.10.2
@@ -25,6 +26,7 @@ specifiers:
 
 dependencies:
   daisyui: 2.50.1_gbtt6ss3tbiz4yjtvdr6fbrj44
+  dotenv: 16.0.3
   meilisearch: 0.30.0
 
 devDependencies:
@@ -640,6 +642,11 @@ packages:
     dependencies:
       esutils: 2.0.3
     dev: true
+
+  /dotenv/16.0.3:
+    resolution: {integrity: sha512-7GO6HghkA5fYG9TYnNxi14/7K9f5occMlp3zXAuSxn7CKCxt9xbNWG7yF8hTCSUchlfWSe3uLmlPfigevRItzQ==}
+    engines: {node: '>=12'}
+    dev: false
 
   /electron-to-chromium/1.4.299:
     resolution: {integrity: sha512-lQ7ijJghH6pCGbfWXr6EY+KYCMaRSjgsY925r1p/TlpSfVM1VjHTcn1gAc15VM4uwti283X6QtjPTXdpoSGiZQ==}
