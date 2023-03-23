@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>python on SnowForlio</title>
+    <title>python on SnowFolio</title>
     <link>/tags/python/</link>
-    <description>Recent content in python on SnowForlio</description>
+    <description>Recent content in python on SnowFolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 16 Feb 2023 08:36:36 -0700</lastBuildDate><atom:link href="/tags/python/index.xml" rel="self" type="application/rss+xml" />

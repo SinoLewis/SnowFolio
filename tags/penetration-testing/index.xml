@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>penetration-testing on SnowForlio</title>
+    <title>penetration-testing on SnowFolio</title>
     <link>/tags/penetration-testing/</link>
-    <description>Recent content in penetration-testing on SnowForlio</description>
+    <description>Recent content in penetration-testing on SnowFolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 16 Feb 2023 08:36:36 -0700</lastBuildDate><atom:link href="/tags/penetration-testing/index.xml" rel="self" type="application/rss+xml" />

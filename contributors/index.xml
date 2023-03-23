@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Contributors on SnowForlio</title>
+    <title>Contributors on SnowFolio</title>
     <link>/contributors/</link>
-    <description>Recent content in Contributors on SnowForlio</description>
+    <description>Recent content in Contributors on SnowFolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 27 Feb 2021 09:32:30 -0700</lastBuildDate><atom:link href="/contributors/index.xml" rel="self" type="application/rss+xml" />

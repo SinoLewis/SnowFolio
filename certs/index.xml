@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Certificates on SnowForlio</title>
+    <title>Certificates on SnowFolio</title>
     <link>/certs/</link>
-    <description>Recent content in Certificates on SnowForlio</description>
+    <description>Recent content in Certificates on SnowFolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="/certs/index.xml" rel="self" type="application/rss+xml" />
     <item>

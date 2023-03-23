@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>sass on SnowForlio</title>
+    <title>sass on SnowFolio</title>
     <link>/tags/sass/</link>
-    <description>Recent content in sass on SnowForlio</description>
+    <description>Recent content in sass on SnowFolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 16 Feb 2023 08:36:36 -0700</lastBuildDate><atom:link href="/tags/sass/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>SnowForlio</title>
-      <link>/projects/snow-forlio/</link>
+      <title>SnowFolio</title>
+      <link>/projects/snow-folio/</link>
       <pubDate>Thu, 16 Feb 2023 08:36:36 -0700</pubDate>
       
-      <guid>/projects/snow-forlio/</guid>
+      <guid>/projects/snow-folio/</guid>
       <description>Click 👉 this to view project repository
 Hugo is a static site generator that allows users to create fast and secure websites. Svelte, on the other hand, is a JavaScript framework that enables developers to build web applications using a reactive approach. As a web developer, I have used both Hugo and Svelte in my projects, and I recently created a portfolio app using these technologies.
 Overview The Hugo Svelte Portfolio App is a fast and responsive web application that showcases my web development skills and projects.</description>
