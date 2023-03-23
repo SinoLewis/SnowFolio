@@ -7,8 +7,10 @@ draft: false
 description: My online freelance services on a global online marketplace for your desired work to be engineered.
 ---
 
-The following lesson explains some of the most common hacking techniques and how to secure your app against them.
+## 1. My Bio
 
-## 1. Zero-day Vulnerability
+> [**LionKingOnIce**](www.who.not)
 
-A **zero-day vulnerability** is a weakness that is unknown or unfixed as of today. When a hacker decides to attack this weakness, it's called **zero-day exploit**.
+## 2. About
+
+An online marketplace that connects businesses and individuals with freelancers who offer a wide range of services, including graphic design, writing, programming, and more.

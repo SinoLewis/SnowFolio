@@ -7,8 +7,10 @@ draft: false
 description: Beautiful moments worth a thousand words.
 ---
 
-The following lesson explains some of the most common hacking techniques and how to secure your app against them.
+## 1. My Bio
 
-## 1. Zero-day Vulnerability
+> [**LionKingOnIce**](www.who.not)
 
-A **zero-day vulnerability** is a weakness that is unknown or unfixed as of today. When a hacker decides to attack this weakness, it's called **zero-day exploit**.
+## 2. About
+
+A social media platform that allows users to share photos and videos, follow other users, and interact with content through likes and comments.

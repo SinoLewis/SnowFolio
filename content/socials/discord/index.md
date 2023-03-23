@@ -7,8 +7,10 @@ draft: false
 description: My server with my realtime updates that you can place VoIP and instant messaging to me.
 ---
 
-The following lesson explains some of the most common hacking techniques and how to secure your app against them.
+## 1. My Bio
 
-## 1. Zero-day Vulnerability
+> [**LionKingOnIce**](www.who.not)
 
-A **zero-day vulnerability** is a weakness that is unknown or unfixed as of today. When a hacker decides to attack this weakness, it's called **zero-day exploit**.
+## 2. About
+
+Discord is a popular communication platform primarily used by gamers to communicate via voice, video, and text. It allows users to create and join servers where they can chat with friends, join communities, and participate in group activities like gaming or streaming.
