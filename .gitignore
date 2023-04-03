@@ -33,3 +33,4 @@ resources/
 *.env
 server/products.json
 static/svelte/index.html
+data/svelte.json
