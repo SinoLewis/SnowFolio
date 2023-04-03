@@ -63,10 +63,10 @@ The project covers a range of features related to site monitoring, including rea
     
     <item>
       <title>LeetCode</title>
-      <link>/projects/leetcode/</link>
+      <link>/projects/leet-code/</link>
       <pubDate>Thu, 16 Feb 2023 08:36:36 -0700</pubDate>
       
-      <guid>/projects/leetcode/</guid>
+      <guid>/projects/leet-code/</guid>
       <description>Click 👉 this to view project repository
 Overview The LeetCode Solutions App is a mobile application that provides solutions to coding problems from LeetCode, a popular platform for practicing coding skills. The app provides an intuitive and user-friendly interface for users to browse through different coding problems, view their solutions, and track their progress.
 The project covers a range of features related to coding practice, including problem categorization, solution explanations, and progress tracking.</description>
@@ -118,10 +118,10 @@ Overview The Hugo Svelte Portfolio App is a fast and responsive web application 
     
     <item>
       <title>TryHackMe Writeups</title>
-      <link>/projects/-tryhackme-writeups/</link>
+      <link>/projects/tryhackme-writeups/</link>
       <pubDate>Thu, 16 Feb 2023 08:36:36 -0700</pubDate>
       
-      <guid>/projects/-tryhackme-writeups/</guid>
+      <guid>/projects/tryhackme-writeups/</guid>
       <description>Click 👉 this to view project repository
 Overview The TryHackMe Writeups Pentests project is a collection of writeups that document my experiences completing various TryHackMe penetration testing challenges. This project provides a comprehensive overview of my methodology, tools, and techniques used to solve the challenges presented by TryHackMe.
 My writeups cover a range of topics, including web application security, network security, cryptography, and reverse engineering. Each writeup provides detailed information on the approach taken to solve the challenge, the tools and techniques used, and the lessons learned.</description>
