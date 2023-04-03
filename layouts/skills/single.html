@@ -17,8 +17,10 @@
 
 
 			<header>
-				{{ $itemImg := (print "/" (anchorize .Params.Category) "/" (anchorize .Params.Title) "/img/featured.png") }}
-				<img src="{{ $itemImg }}" alt="{{ .Params.Title }}">
+				{{ $itemImg := (print "/" (.File.Dir) "img/featured-wide.png") }}
+				<div>
+					<img class="w-full h-48" src="{{ $itemImg }}" alt="{{ .Params.Title }}">
+				</div>
 
 				<div class="bg-gray6 py-5 px-3 rounded-lg mb-4 flex justify-between mt-3">
 		
