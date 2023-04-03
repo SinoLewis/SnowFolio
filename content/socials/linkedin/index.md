@@ -9,7 +9,7 @@ description: Explore my current employment status
 
 ## 1. My Bio
 
-> [**LionKingOnIce**](www.who.not)
+> [**Lewis Nzau**](www.linkedin.com/in/lewis-nzau)
 
 ## 2. About
 

@@ -9,7 +9,7 @@ description: Global online video sharing and social media platform that give eve
 
 ## 1. My Bio
 
-> [**LionKingOnIce**](www.who.not)
+> [**Scott West**](https://www.youtube.com/channel/UCA6FJTCyHrm_NpfieJiHrHg)
 
 ## 2. About
 

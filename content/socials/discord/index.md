@@ -9,7 +9,7 @@ description: My server with my realtime updates that you can place VoIP and inst
 
 ## 1. My Bio
 
-> [**LionKingOnIce**](www.who.not)
+> [**LionKingOnIce**](https://discord.com/channels/1068622576286445598/1068622576928170027)
 
 ## 2. About
 

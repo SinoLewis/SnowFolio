@@ -9,7 +9,7 @@ description: Explore my many production and developing code base
 
 ## 1. My Bio
 
-> [**LionKingOnIce**](www.who.not)
+> [**CryptSkiddie**](https://gitlab.com/CryptSkiddie)
 
 ## 2. About
 

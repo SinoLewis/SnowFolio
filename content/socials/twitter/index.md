@@ -9,7 +9,7 @@ description: Quotes & conversation of state of mind for any public.
 
 ## 1. My Bio
 
-> [**LionKingOnIce**](www.who.not)
+> [**SinoLewis**](https://twitter.com/)
 
 ## 2. About
 

@@ -9,7 +9,7 @@ description: Sharing the programming light with other developers.
 
 ## 1. My Bio
 
-> [**LionKingOnIce**](www.who.not)
+> [**LionKingOnIce**](https://stackoverflow.com/users/18182900/lion-king-on-ice)
 
 ## 2. About
 

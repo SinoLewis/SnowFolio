@@ -9,7 +9,7 @@ description: Come and track my problem solving skills
 
 ## 1. My Bio
 
-> [**LionKingOnIce**](www.who.not)
+> [**SinoLewis**](www.leetcode.com)
 
 ## 2. About
 

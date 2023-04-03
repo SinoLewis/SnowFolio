@@ -9,7 +9,7 @@ description: Beautiful moments worth a thousand words.
 
 ## 1. My Bio
 
-> [**LionKingOnIce**](www.who.not)
+> [**lew_i**](www.instagram.com)
 
 ## 2. About
 

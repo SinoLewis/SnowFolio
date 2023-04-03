@@ -9,7 +9,7 @@ description: Catch me live for a programming & gaming experience.
 
 ## 1. My Bio
 
-> [**LionKingOnIce**](www.who.not)
+> [**scotty_sesh**](https://www.twitch.tv/scotty_sesh)
 
 ## 2. About
 

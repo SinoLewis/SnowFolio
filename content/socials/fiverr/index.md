@@ -9,7 +9,7 @@ description: My online freelance services on a global online marketplace for you
 
 ## 1. My Bio
 
-> [**LionKingOnIce**](www.who.not)
+> [**icecodes**](https://www.fiverr.com/icecodes?public_mode=true)
 
 ## 2. About
 
