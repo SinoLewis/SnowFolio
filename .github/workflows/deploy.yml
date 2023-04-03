@@ -25,7 +25,7 @@ jobs:
 
       - name: Install and build
         run: |
-          pnpm install --shamefully-flatten
+          rm pnpm-lock.yaml && pnpm i
           pnpm run build
 
       - name: Deploy
