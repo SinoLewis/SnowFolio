@@ -2,16 +2,13 @@
 
 # Tasks
 
-> 1. Hero:
-> 2. Projects
+> 1. Gifs
 
-- Generate a professional portfolio project description for
+> 2. Content
 
-> 3. Skills & Achievements (2)
+A) Skills
 
-- Generate a professional portfolio skill description for
-- Tabs
-
-> 4. Images
-- single.html images
-- custom gifs
+1. Data Presentation: Client/Server Express apps, Graphql, REST, tPRC, REST, 
+2. Ionic
+3. Electron
+4. Next
