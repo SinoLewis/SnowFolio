@@ -1,5 +1,5 @@
 ---
-title: Machine Learning Colabs
+title: Snow AI
 lastmod: 2023-02-16T08:36:36-07:00
 publishdate: 2023-02-16T08:36:36-07:00
 author: Lewis Nzau
@@ -13,7 +13,7 @@ tags:
   - artificial-intelligence
 ---
 
-> Click [👉 this](https://github.com/SinoLewis/machine-learning-colabs) to view project repository
+> Click [👉 this](https://github.com/SinoLewis/SnowAI) to view project repository
 
 Google Colab is a cloud-based platform that allows users to write, run, and share Python code in a Jupyter notebook environment. As a machine learning developer, I have used Google Colab extensively to build and train machine learning models for various projects.
 

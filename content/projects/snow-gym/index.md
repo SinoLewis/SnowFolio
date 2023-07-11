@@ -1,5 +1,5 @@
 ---
-title: LeetCode
+title: Snow Gym
 lastmod: 2023-02-16T08:36:36-07:00
 publishdate: 2023-02-16T08:36:36-07:00
 author: Lewis Nzau
@@ -18,7 +18,7 @@ tags:
 
 The LeetCode Solutions App is a mobile application that provides solutions to coding problems from LeetCode, a popular platform for practicing coding skills. The app provides an intuitive and user-friendly interface for users to browse through different coding problems, view their solutions, and track their progress.
 
-The project covers a range of features related to coding practice, including problem categorization, solution explanations, and progress tracking. By following the guidelines outlined in this project, developers can easily build a mobile application that helps users practice coding skills and prepare for technical interviews.
+The project attemps to solve leetcode problems & covers a range of features related to coding practice, including problem categorization, solution explanations, and progress tracking. By following the guidelines outlined in this project, developers can easily build a mobile application that helps users practice coding skills and prepare for technical interviews.
 
 ## Features
 

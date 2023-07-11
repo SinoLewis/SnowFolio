@@ -11,7 +11,7 @@ tags:
   - penetration-testing
 ---
 
-> Click [👉 this](https://github.com/SinoLewis/tryhackme_writeups) to view project repository
+<!-- > Click [👉 this](https://github.com/SinoLewis/tryhackme_writeups) to view project repository -->
 
 ## Overview
 
